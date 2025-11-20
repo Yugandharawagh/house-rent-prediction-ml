@@ -1,0 +1,1001 @@
+ListingID,Locality,BHK,Area_sqft,Furnishing,Floor,Age_Years,Availability,Tenant_Type,Parking,Lift,Balconies,Bathrooms,Rent_INR
+PN100000,Hadapsar,1,402,Semi-Furnished,8,19,Immediate,Bachelor,0,1,3,1,19200
+PN100001,Baner,1,449,Furnished,20,20,Immediate,Family,1,1,2,1,34800
+PN100002,Hadapsar,3,1176,Furnished,6,0,After 2 months,Family,1,1,0,4,33200
+PN100003,Dhayari,2,669,Furnished,4,27,After 1 month,Bachelor,1,1,1,2,9700
+PN100004,Narhe,2,945,Unfurnished,13,18,Immediate,Family,1,1,2,4,12600
+PN100005,Narhe,1,352,Furnished,10,1,Immediate,Bachelor,0,1,1,1,11600
+PN100006,Wakad,3,1408,Furnished,12,7,Immediate,Bachelor,0,1,0,4,45800
+PN100007,Baner,3,1289,Furnished,13,21,After 1 month,Company,0,1,1,8,53300
+PN100008,Sinhagad Road,3,1355,Furnished,2,13,After 1 month,Family,0,0,0,3,24600
+PN100009,Dhayari,3,1237,Semi-Furnished,16,14,After 1 month,Bachelor,1,1,1,3,12500
+PN100010,Baner,3,1279,Semi-Furnished,19,12,After 1 month,Bachelor,1,1,0,4,46500
+PN100011,Dhayari,1,462,Semi-Furnished,2,2,Immediate,Family,0,0,1,1,8900
+PN100012,Wakad,1,340,Semi-Furnished,15,27,After 2 months,Family,0,1,2,1,21400
+PN100013,Baner,3,998,Unfurnished,11,11,Immediate,Family,0,1,2,3,40200
+PN100014,Dhayari,3,1361,Semi-Furnished,17,2,Immediate,Family,0,0,2,4,13800
+PN100015,Hadapsar,2,960,Furnished,6,18,After 2 months,Company,0,1,0,3,25400ju
+PN100016,Wakad,1,395,Semi-Furnished,10,3,Immediate,Family,0,1,1,2,28900
+PN100017,Wakad,1,365,Unfurnished,5,9,Immediate,Bachelor,0,1,3,1,26300
+PN100018,Sinhagad Road,2,785,Furnished,18,29,After 2 months,Bachelor,1,1,3,2,19100
+PN100019,Narhe,2,615,Unfurnished,15,12,Immediate,Family,0,1,1,3,10500
+PN100020,Hadapsar,1,464,Furnished,3,0,After 2 months,Bachelor,0,1,0,1,19800
+PN100021,Baner,2,595,Semi-Furnished,9,23,After 2 months,Family,0,1,1,4,30800
+PN100022,Sinhagad Road,2,885,Furnished,16,2,After 1 month,Family,0,1,0,2,23700
+PN100023,Wakad,2,629,Unfurnished,2,27,After 2 months,Bachelor,0,1,0,2,23200
+PN100024,Narhe,3,1124,Furnished,7,0,Immediate,Family,0,1,0,3,17200
+PN100025,Kothrud,1,546,Unfurnished,15,3,After 2 months,Family,0,0,0,2,29000
+PN100026,Sinhagad Road,1,593,Semi-Furnished,7,23,After 1 month,Company,0,1,2,3,19300
+PN100027,Dhayari,2,758,Unfurnished,15,19,After 1 month,Family,1,1,0,2,10300
+PN100028,Kothrud,4,1546,Semi-Furnished,18,19,Immediate,Bachelor,0,1,1,5,44800
+PN100029,Wakad,3,1050,Semi-Furnished,2,30,After 2 months,Family,0,1,1,5,31000
+PN100030,Baner,3,1471,Semi-Furnished,19,16,Immediate,Family,0,1,0,3,44400
+PN100031,Wakad,2,598,Semi-Furnished,9,18,Immediate,Bachelor,1,1,4,2,34100
+PN100032,Wakad,2,955,Semi-Furnished,11,3,Immediate,Family,0,1,2,2,40300
+PN100033,Kothrud,2,809,Unfurnished,3,2,Immediate,Family,0,0,1,3,34600
+PN100034,Hadapsar,2,776,Unfurnished,17,15,Immediate,Bachelor,1,1,3,3,21300
+PN100035,Sinhagad Road,2,737,Unfurnished,18,29,Immediate,Family,0,1,2,4,16000
+PN100036,Kothrud,2,783,Semi-Furnished,16,14,After 1 month,Company,0,1,1,3,38300
+PN100037,Wakad,2,516,Furnished,5,11,After 2 months,Company,0,1,3,2,37100
+PN100038,Hadapsar,2,779,Furnished,3,28,After 2 months,Company,0,0,3,2,23100
+PN100039,Hadapsar,1,555,Furnished,10,2,After 1 month,Bachelor,0,0,0,3,19700
+PN100040,Kothrud,1,473,Unfurnished,14,23,After 2 months,Bachelor,0,0,0,2,21000
+PN100041,Sinhagad Road,3,1003,Furnished,11,0,After 1 month,Bachelor,0,1,0,5,23700
+PN100042,Sinhagad Road,1,325,Unfurnished,16,2,Immediate,Family,1,1,0,2,17300
+PN100043,Sinhagad Road,3,1370,Furnished,7,14,After 1 month,Family,0,0,1,4,26000
+PN100044,Hadapsar,2,652,Unfurnished,18,25,After 1 month,Company,0,0,1,3,17700
+PN100045,Hadapsar,4,2392,Furnished,20,7,After 1 month,Family,1,1,1,5,45300
+PN100046,Dhayari,1,346,Unfurnished,7,2,After 1 month,Family,1,1,3,1,10600
+PN100047,Dhayari,2,591,Unfurnished,7,25,After 1 month,Family,1,1,0,2,9700
+PN100048,Narhe,1,416,Unfurnished,17,29,After 1 month,Bachelor,1,1,2,1,9500
+PN100049,Kothrud,1,425,Semi-Furnished,13,21,After 2 months,Bachelor,0,1,2,4,24300
+PN100050,Kothrud,2,746,Furnished,10,2,Immediate,Family,1,1,0,2,42800
+PN100051,Wakad,1,517,Semi-Furnished,6,25,After 2 months,Family,1,1,1,1,28200
+PN100052,Dhayari,1,521,Semi-Furnished,7,4,Immediate,Family,0,0,1,2,9300
+PN100053,Sinhagad Road,2,941,Unfurnished,19,0,Immediate,Bachelor,1,1,2,7,21500
+PN100054,Kothrud,2,662,Furnished,4,27,After 1 month,Family,1,1,0,5,30600
+PN100055,Kothrud,3,1184,Semi-Furnished,15,12,After 2 months,Family,1,0,0,4,43700
+PN100056,Hadapsar,3,934,Semi-Furnished,18,22,After 1 month,Bachelor,1,1,0,3,21900
+PN100057,Narhe,3,1095,Semi-Furnished,17,25,After 1 month,Bachelor,1,1,3,4,15200
+PN100058,Narhe,1,491,Semi-Furnished,18,2,Immediate,Family,0,1,2,2,12600
+PN100059,Baner,1,516,Semi-Furnished,11,2,After 2 months,Family,0,1,0,4,31700
+PN100060,Wakad,3,1598,Semi-Furnished,1,18,After 2 months,Family,0,0,1,4,42100
+PN100061,Kothrud,2,883,Unfurnished,14,19,After 2 months,Bachelor,0,1,1,3,30200
+PN100062,Kothrud,2,524,Semi-Furnished,13,19,After 2 months,Family,1,0,3,2,29900
+PN100063,Hadapsar,3,1122,Semi-Furnished,1,25,Immediate,Bachelor,0,0,2,3,22100
+PN100064,Kothrud,2,575,Semi-Furnished,15,8,After 1 month,Family,1,1,2,2,35600
+PN100065,Dhayari,2,933,Unfurnished,16,26,Immediate,Bachelor,0,0,1,2,8100
+PN100066,Narhe,3,1238,Unfurnished,1,7,Immediate,Family,0,0,1,7,13100
+PN100067,Kothrud,2,845,Furnished,7,18,After 1 month,Bachelor,1,1,0,3,39300
+PN100068,Hadapsar,3,1119,Furnished,6,29,After 1 month,Family,0,0,0,3,22800
+PN100069,Dhayari,2,500,Unfurnished,7,2,Immediate,Family,0,1,2,2,9900
+PN100070,Sinhagad Road,3,1016,Unfurnished,4,5,After 2 months,Bachelor,1,1,3,3,25600
+PN100071,Narhe,1,346,Unfurnished,1,8,After 1 month,Bachelor,0,0,0,1,7300
+PN100072,Wakad,3,1412,Semi-Furnished,5,20,After 1 month,Family,1,1,1,6,39900
+PN100073,Dhayari,3,1272,Semi-Furnished,19,7,After 1 month,Family,0,1,0,4,12900
+PN100074,Baner,3,1215,Furnished,15,17,After 2 months,Bachelor,1,1,0,3,44200
+PN100075,Wakad,2,946,Semi-Furnished,12,16,After 1 month,Family,1,1,0,3,32300
+PN100076,Hadapsar,1,539,Furnished,14,28,After 1 month,Family,0,1,0,1,17000
+PN100077,Hadapsar,2,696,Unfurnished,3,14,After 1 month,Family,0,0,1,4,20100
+PN100078,Hadapsar,2,788,Semi-Furnished,14,21,After 2 months,Family,1,1,2,3,21900
+PN100079,Kothrud,2,598,Furnished,7,30,After 1 month,Family,0,1,0,2,30900
+PN100080,Narhe,2,505,Semi-Furnished,17,27,After 2 months,Family,0,1,4,4,10300
+PN100081,Kothrud,2,550,Semi-Furnished,18,12,Immediate,Family,0,1,1,4,33500
+PN100082,Narhe,1,371,Unfurnished,16,6,Immediate,Bachelor,1,1,1,3,12400
+PN100083,Wakad,1,521,Furnished,16,26,Immediate,Bachelor,1,1,1,1,30100
+PN100084,Hadapsar,2,706,Furnished,19,4,After 1 month,Family,0,1,2,2,23800
+PN100085,Narhe,2,846,Unfurnished,8,18,After 2 months,Family,1,1,1,4,13500
+PN100086,Hadapsar,2,746,Semi-Furnished,2,9,After 2 months,Company,0,0,2,4,24500
+PN100087,Kothrud,1,352,Unfurnished,6,1,Immediate,Family,0,1,0,2,29100
+PN100088,Wakad,2,870,Semi-Furnished,2,14,Immediate,Family,1,0,0,2,33200
+PN100089,Wakad,2,683,Unfurnished,19,24,After 2 months,Bachelor,0,1,2,2,26700
+PN100090,Hadapsar,2,621,Unfurnished,5,18,Immediate,Family,1,1,0,2,19800
+PN100091,Sinhagad Road,3,1304,Semi-Furnished,15,5,After 2 months,Family,1,0,0,4,25500
+PN100092,Wakad,1,333,Furnished,14,16,After 2 months,Family,1,1,1,1,29500
+PN100093,Kothrud,2,738,Unfurnished,19,23,Immediate,Company,1,1,2,2,37600
+PN100094,Narhe,1,556,Semi-Furnished,15,7,After 1 month,Family,1,1,1,1,12300
+PN100095,Wakad,1,327,Semi-Furnished,11,22,After 1 month,Bachelor,0,1,2,1,20600
+PN100096,Narhe,2,870,Unfurnished,18,6,Immediate,Family,1,1,3,3,14900
+PN100097,Baner,3,1530,Unfurnished,1,4,After 2 months,Bachelor,1,0,0,5,47000
+PN100098,Kothrud,2,625,Unfurnished,15,11,Immediate,Family,0,0,0,2,28400
+PN100099,Narhe,1,532,Unfurnished,20,12,Immediate,Bachelor,1,1,1,3,11100
+PN100100,Hadapsar,1,535,Unfurnished,4,18,After 1 month,Company,0,1,1,3,16900
+PN100101,Narhe,2,876,Semi-Furnished,16,0,After 1 month,Family,0,1,0,2,13000
+PN100102,Dhayari,2,569,Unfurnished,3,22,After 1 month,Bachelor,1,0,2,3,9500
+PN100103,Sinhagad Road,2,834,Furnished,10,5,After 2 months,Family,1,0,2,4,24500
+PN100104,Wakad,2,525,Unfurnished,13,18,After 1 month,Company,0,0,1,4,29600
+PN100105,Wakad,3,900,Semi-Furnished,11,25,After 2 months,Family,1,1,1,5,36300
+PN100106,Narhe,3,1158,Unfurnished,16,0,Immediate,Family,1,0,1,4,16500
+PN100107,Wakad,2,583,Semi-Furnished,5,0,After 1 month,Bachelor,0,1,0,2,30000
+PN100108,Sinhagad Road,2,764,Unfurnished,13,10,After 2 months,Family,1,0,1,3,20000
+PN100109,Wakad,2,933,Unfurnished,16,13,After 2 months,Family,0,1,2,3,34500
+PN100110,Narhe,2,819,Furnished,3,21,After 1 month,Company,0,0,0,6,11500
+PN100111,Narhe,3,977,Furnished,2,25,After 1 month,Family,1,1,1,5,14200
+PN100112,Hadapsar,2,603,Unfurnished,6,13,Immediate,Family,1,1,2,3,21200
+PN100113,Kothrud,3,1515,Furnished,15,7,After 2 months,Family,1,1,1,5,50700
+PN100114,Dhayari,2,947,Semi-Furnished,18,19,Immediate,Family,1,0,2,4,11000
+PN100115,Dhayari,2,938,Semi-Furnished,10,0,Immediate,Company,1,1,0,5,13500
+PN100116,Wakad,2,793,Semi-Furnished,10,12,Immediate,Company,1,1,0,3,41800
+PN100117,Hadapsar,2,760,Unfurnished,2,28,After 2 months,Bachelor,1,0,0,4,16400
+PN100118,Kothrud,3,1191,Furnished,7,25,After 2 months,Family,0,1,0,3,36200
+PN100119,Dhayari,2,802,Semi-Furnished,15,25,Immediate,Family,0,1,1,3,10200
+PN100120,Kothrud,3,1522,Furnished,5,7,After 2 months,Bachelor,1,1,3,5,58700
+PN100121,Dhayari,3,950,Semi-Furnished,16,28,After 1 month,Bachelor,1,1,0,5,11300
+PN100122,Wakad,1,400,Unfurnished,8,20,After 2 months,Bachelor,1,0,0,1,21900
+PN100123,Wakad,3,1466,Furnished,18,18,Immediate,Family,1,1,1,3,50800
+PN100124,Sinhagad Road,3,1036,Furnished,8,9,After 1 month,Family,1,0,1,3,27600
+PN100125,Baner,3,974,Unfurnished,10,5,After 2 months,Family,0,1,0,3,37100
+PN100126,Baner,4,1817,Furnished,8,26,After 2 months,Family,1,1,1,5,53800
+PN100127,Dhayari,2,697,Semi-Furnished,19,20,After 2 months,Bachelor,1,1,1,3,9700
+PN100128,Sinhagad Road,2,655,Unfurnished,9,17,Immediate,Bachelor,0,1,1,3,16500
+PN100129,Dhayari,3,1600,Furnished,12,7,After 2 months,Company,1,1,1,3,18700
+PN100130,Kothrud,4,1614,Unfurnished,15,18,Immediate,Bachelor,0,1,0,5,51100
+PN100131,Kothrud,4,1417,Unfurnished,7,0,Immediate,Bachelor,0,1,1,5,46900
+PN100132,Sinhagad Road,1,413,Unfurnished,20,29,Immediate,Family,0,0,1,1,11600
+PN100133,Sinhagad Road,1,461,Unfurnished,5,27,Immediate,Family,0,1,4,2,15000
+PN100134,Baner,2,970,Furnished,14,26,After 2 months,Family,0,1,1,2,37800
+PN100135,Sinhagad Road,2,591,Furnished,17,14,Immediate,Company,0,1,3,5,23700
+PN100136,Dhayari,2,897,Semi-Furnished,1,30,Immediate,Company,1,0,0,2,10700
+PN100137,Baner,3,984,Semi-Furnished,3,18,After 1 month,Bachelor,0,1,0,6,38800
+PN100138,Hadapsar,2,696,Unfurnished,13,19,After 2 months,Family,1,1,0,3,21200
+PN100139,Wakad,3,1125,Furnished,18,20,After 2 months,Bachelor,1,1,0,5,37400
+PN100140,Kothrud,2,701,Semi-Furnished,14,29,After 2 months,Family,1,1,2,3,30400
+PN100141,Kothrud,4,1636,Unfurnished,16,24,Immediate,Family,0,1,0,4,40800
+PN100142,Baner,3,1134,Unfurnished,18,13,Immediate,Family,1,1,2,3,45700
+PN100143,Wakad,3,933,Unfurnished,14,16,After 2 months,Family,1,1,1,4,33900
+PN100144,Wakad,2,841,Furnished,16,20,Immediate,Bachelor,1,1,0,2,33200
+PN100145,Wakad,3,1354,Semi-Furnished,14,9,After 2 months,Company,0,1,2,4,50400
+PN100146,Narhe,2,809,Furnished,9,10,After 2 months,Bachelor,1,1,0,2,13600
+PN100147,Kothrud,1,463,Unfurnished,3,16,Immediate,Bachelor,0,1,3,2,29100
+PN100148,Hadapsar,2,811,Semi-Furnished,6,0,After 1 month,Family,1,1,0,3,25500
+PN100149,Hadapsar,1,500,Furnished,6,25,After 2 months,Family,0,1,1,1,17900
+PN100150,Narhe,2,628,Semi-Furnished,9,24,Immediate,Bachelor,0,1,2,2,10400
+PN100151,Baner,2,942,Semi-Furnished,17,26,After 2 months,Family,0,1,3,2,32700
+PN100152,Hadapsar,1,379,Semi-Furnished,7,23,Immediate,Bachelor,1,1,2,5,17700
+PN100153,Baner,3,1437,Furnished,13,14,After 2 months,Bachelor,1,1,0,5,49700
+PN100154,Sinhagad Road,1,385,Furnished,3,25,After 1 month,Family,1,0,0,1,14800
+PN100155,Wakad,1,514,Furnished,11,28,Immediate,Bachelor,1,1,2,1,28400
+PN100156,Dhayari,1,402,Unfurnished,8,16,After 1 month,Family,0,1,1,2,7900
+PN100157,Kothrud,2,973,Semi-Furnished,6,22,Immediate,Family,0,1,1,4,36800
+PN100158,Kothrud,3,1296,Semi-Furnished,5,17,Immediate,Family,1,1,1,4,45800
+PN100159,Hadapsar,3,1150,Unfurnished,6,22,After 2 months,Family,1,1,0,4,23600
+PN100160,Sinhagad Road,2,878,Unfurnished,11,6,After 2 months,Family,1,1,0,2,24300
+PN100161,Wakad,2,735,Semi-Furnished,2,14,After 1 month,Family,1,0,1,2,32000
+PN100162,Baner,2,839,Semi-Furnished,3,4,After 2 months,Family,1,0,1,3,41100
+PN100163,Hadapsar,3,1192,Unfurnished,15,24,After 2 months,Bachelor,1,1,0,4,23100
+PN100164,Hadapsar,4,1798,Semi-Furnished,11,16,After 2 months,Family,0,1,1,6,32300
+PN100165,Narhe,4,1410,Semi-Furnished,20,29,Immediate,Family,1,1,1,5,16000
+PN100166,Sinhagad Road,2,647,Furnished,11,28,Immediate,Family,1,1,2,2,19500
+PN100167,Narhe,2,740,Unfurnished,5,25,After 1 month,Family,0,0,1,2,8900
+PN100168,Narhe,2,546,Furnished,3,22,After 1 month,Family,1,0,3,3,12000
+PN100169,Narhe,3,1059,Unfurnished,17,2,Immediate,Bachelor,1,1,0,3,15700
+PN100170,Baner,2,994,Unfurnished,11,24,After 1 month,Family,0,1,1,2,32600
+PN100171,Kothrud,3,1440,Semi-Furnished,18,8,After 2 months,Bachelor,0,1,0,4,46200
+PN100172,Sinhagad Road,2,962,Semi-Furnished,5,7,Immediate,Family,0,1,2,2,23500
+PN100173,Baner,2,536,Unfurnished,15,27,After 2 months,Family,1,1,0,4,27000
+PN100174,Kothrud,4,1623,Unfurnished,7,29,After 1 month,Bachelor,1,1,2,6,41600
+PN100175,Kothrud,2,667,Semi-Furnished,6,27,Immediate,Bachelor,0,1,4,4,30300
+PN100176,Wakad,2,506,Unfurnished,17,4,Immediate,Family,0,1,2,3,34700
+PN100177,Dhayari,1,381,Semi-Furnished,8,3,After 1 month,Bachelor,0,1,2,1,8700
+PN100178,Wakad,2,512,Semi-Furnished,3,13,After 1 month,Family,1,0,0,3,30000
+PN100179,Sinhagad Road,2,966,Unfurnished,5,29,Immediate,Family,1,1,0,3,18500
+PN100180,Baner,3,1311,Semi-Furnished,1,27,Immediate,Family,0,0,0,5,40200
+PN100181,Hadapsar,3,1300,Semi-Furnished,4,9,After 1 month,Family,0,1,1,3,28000
+PN100182,Wakad,3,1109,Semi-Furnished,4,17,After 1 month,Family,0,1,2,5,40800
+PN100183,Hadapsar,3,1358,Semi-Furnished,1,25,After 2 months,Family,1,1,0,3,24600
+PN100184,Narhe,2,725,Semi-Furnished,17,28,After 2 months,Family,0,1,1,5,10200
+PN100185,Wakad,2,583,Unfurnished,9,21,After 2 months,Family,0,1,0,4,27000
+PN100186,Narhe,2,976,Unfurnished,11,20,Immediate,Family,1,1,4,2,15700
+PN100187,Baner,3,1061,Semi-Furnished,16,28,After 2 months,Family,0,1,0,5,33400
+PN100188,Sinhagad Road,2,991,Semi-Furnished,2,15,Immediate,Bachelor,1,0,1,2,22500
+PN100189,Hadapsar,4,1598,Semi-Furnished,9,2,Immediate,Bachelor,0,1,1,6,29700
+PN100190,Sinhagad Road,1,314,Unfurnished,9,24,Immediate,Bachelor,1,0,0,2,13400
+PN100191,Sinhagad Road,2,931,Unfurnished,16,24,After 2 months,Family,1,1,0,3,16900
+PN100192,Narhe,1,371,Unfurnished,6,10,After 2 months,Family,0,1,1,2,9600
+PN100193,Narhe,2,665,Unfurnished,14,10,Immediate,Bachelor,1,1,3,3,13700
+PN100194,Narhe,3,1300,Unfurnished,14,11,After 1 month,Bachelor,0,1,1,4,14600
+PN100195,Hadapsar,2,915,Unfurnished,6,17,Immediate,Family,1,1,0,3,24900
+PN100196,Baner,3,1488,Semi-Furnished,13,19,After 2 months,Family,0,1,0,3,46200
+PN100197,Dhayari,2,605,Unfurnished,19,22,Immediate,Family,1,1,2,4,11100
+PN100198,Kothrud,4,1622,Furnished,6,8,After 1 month,Family,0,1,3,4,60900
+PN100199,Kothrud,2,813,Unfurnished,10,21,After 2 months,Company,1,1,1,4,36600
+PN100200,Baner,1,311,Furnished,15,22,Immediate,Bachelor,1,1,1,2,31800
+PN100201,Narhe,2,720,Semi-Furnished,10,22,Immediate,Bachelor,0,1,1,2,10500
+PN100202,Hadapsar,1,510,Furnished,5,21,Immediate,Bachelor,0,1,0,2,17900
+PN100203,Hadapsar,2,944,Unfurnished,5,28,After 2 months,Bachelor,0,1,1,3,17000
+PN100204,Dhayari,3,1058,Semi-Furnished,14,25,After 2 months,Family,1,1,1,3,11000
+PN100205,Wakad,2,616,Semi-Furnished,18,1,After 2 months,Family,0,1,3,2,37900
+PN100206,Dhayari,1,485,Furnished,5,21,After 1 month,Family,1,0,0,2,8500
+PN100207,Dhayari,2,781,Semi-Furnished,3,7,After 1 month,Family,1,1,1,3,12800
+PN100208,Kothrud,2,501,Semi-Furnished,6,22,After 2 months,Company,0,1,1,3,33500
+PN100209,Hadapsar,3,1130,Semi-Furnished,19,24,Immediate,Bachelor,0,1,1,4,21100
+PN100210,Dhayari,3,927,Semi-Furnished,7,1,After 2 months,Family,0,1,1,4,11300
+PN100211,Hadapsar,2,786,Unfurnished,16,10,Immediate,Bachelor,1,1,2,3,22800
+PN100212,Baner,1,556,Semi-Furnished,16,4,After 1 month,Family,0,1,0,3,35000
+PN100213,Narhe,3,1064,Unfurnished,13,16,Immediate,Bachelor,0,1,3,3,14800
+PN100214,Wakad,2,944,Furnished,4,19,Immediate,Family,1,0,0,2,38500
+PN100215,Dhayari,3,900,Unfurnished,19,22,After 2 months,Family,0,1,0,3,9400
+PN100216,Hadapsar,2,558,Semi-Furnished,1,4,Immediate,Company,1,0,0,4,27600
+PN100217,Kothrud,2,625,Furnished,16,1,After 2 months,Bachelor,1,1,0,4,37300
+PN100218,Baner,1,477,Furnished,9,22,After 2 months,Family,1,1,1,1,32900
+PN100219,Wakad,2,733,Furnished,18,27,After 1 month,Family,1,1,2,3,30900
+PN100220,Kothrud,4,1916,Unfurnished,4,14,Immediate,Company,1,1,0,8,63500
+PN100221,Dhayari,2,731,Semi-Furnished,5,16,Immediate,Bachelor,1,1,0,5,10900
+PN100222,Baner,1,441,Semi-Furnished,16,20,After 2 months,Family,0,1,2,1,25700
+PN100223,Hadapsar,1,460,Unfurnished,10,8,After 2 months,Family,1,1,2,1,21200
+PN100224,Kothrud,3,1223,Semi-Furnished,4,1,After 1 month,Family,0,1,1,6,50100
+PN100225,Kothrud,2,843,Unfurnished,19,29,After 2 months,Family,0,1,1,2,27700
+PN100226,Baner,2,575,Unfurnished,13,25,Immediate,Bachelor,0,1,1,3,27100
+PN100227,Dhayari,1,401,Furnished,11,25,After 1 month,Family,0,1,1,3,7600
+PN100228,Sinhagad Road,3,984,Unfurnished,2,25,After 2 months,Family,0,0,4,3,17500
+PN100229,Dhayari,2,727,Semi-Furnished,6,14,After 1 month,Company,1,1,1,4,12500
+PN100230,Narhe,3,920,Unfurnished,9,22,After 2 months,Family,0,1,2,5,12100
+PN100231,Kothrud,3,1233,Unfurnished,10,28,After 2 months,Family,1,1,1,5,33300
+PN100232,Wakad,3,1547,Unfurnished,9,15,After 1 month,Family,1,0,0,4,39900
+PN100233,Wakad,3,1007,Furnished,2,9,After 1 month,Company,0,0,1,3,47200
+PN100234,Wakad,2,740,Semi-Furnished,7,9,After 2 months,Family,1,1,0,4,33900
+PN100235,Hadapsar,2,672,Furnished,17,9,Immediate,Bachelor,0,1,0,2,24700
+PN100236,Kothrud,2,905,Unfurnished,5,21,Immediate,Company,0,1,1,4,37500
+PN100237,Dhayari,3,1051,Semi-Furnished,7,15,After 1 month,Family,0,1,1,3,11600
+PN100238,Hadapsar,2,651,Unfurnished,2,18,Immediate,Family,0,0,3,2,18700
+PN100239,Baner,3,1460,Unfurnished,6,2,After 2 months,Company,1,1,2,3,55000
+PN100240,Hadapsar,1,592,Unfurnished,10,14,After 1 month,Company,1,1,0,1,19700
+PN100241,Hadapsar,2,576,Unfurnished,11,28,Immediate,Bachelor,1,1,0,2,18200
+PN100242,Baner,2,819,Semi-Furnished,7,2,Immediate,Bachelor,1,1,2,3,42300
+PN100243,Hadapsar,1,401,Unfurnished,6,9,Immediate,Family,0,1,2,3,20200
+PN100244,Wakad,2,852,Semi-Furnished,11,26,After 1 month,Family,0,1,0,3,29800
+PN100245,Wakad,1,326,Unfurnished,15,20,After 1 month,Family,1,1,0,3,25500
+PN100246,Hadapsar,3,957,Semi-Furnished,8,2,Immediate,Company,1,1,0,3,29200
+PN100247,Narhe,2,790,Semi-Furnished,18,1,After 1 month,Bachelor,0,1,1,3,11700
+PN100248,Narhe,2,952,Unfurnished,17,12,After 1 month,Family,1,1,2,3,12700
+PN100249,Hadapsar,1,578,Semi-Furnished,17,27,Immediate,Family,0,1,1,3,16700
+PN100250,Sinhagad Road,2,785,Unfurnished,19,20,After 1 month,Family,1,1,0,2,19100
+PN100251,Wakad,2,1000,Semi-Furnished,2,15,After 2 months,Family,1,0,1,2,35600
+PN100252,Wakad,3,1380,Unfurnished,19,22,Immediate,Family,1,1,0,3,35700
+PN100253,Hadapsar,1,479,Unfurnished,16,29,Immediate,Family,0,1,1,3,15800
+PN100254,Sinhagad Road,4,1741,Unfurnished,14,27,After 1 month,Company,1,1,1,5,27300
+PN100255,Dhayari,2,715,Furnished,18,9,Immediate,Bachelor,1,1,3,2,14400
+PN100256,Dhayari,2,904,Furnished,8,2,Immediate,Bachelor,1,1,0,3,13300
+PN100257,Narhe,2,524,Semi-Furnished,8,1,Immediate,Family,0,1,0,5,11800
+PN100258,Dhayari,3,1137,Furnished,14,28,After 2 months,Bachelor,0,1,0,6,10700
+PN100259,Baner,2,578,Semi-Furnished,2,3,Immediate,Bachelor,1,0,0,3,30100
+PN100260,Hadapsar,3,991,Unfurnished,5,12,After 2 months,Company,0,1,2,4,26800
+PN100261,Narhe,2,650,Semi-Furnished,11,18,Immediate,Family,0,0,1,2,10200
+PN100262,Wakad,2,844,Semi-Furnished,19,1,After 2 months,Company,1,1,1,3,38700
+PN100263,Baner,2,648,Unfurnished,13,8,After 2 months,Family,1,1,1,2,35500
+PN100264,Kothrud,1,551,Semi-Furnished,8,0,Immediate,Family,0,1,3,1,35400
+PN100265,Dhayari,2,730,Unfurnished,18,17,After 2 months,Family,0,1,0,4,9700
+PN100266,Kothrud,1,306,Semi-Furnished,12,26,Immediate,Family,0,1,1,3,23700
+PN100267,Wakad,2,745,Furnished,3,5,Immediate,Bachelor,0,0,0,3,32000
+PN100268,Sinhagad Road,2,922,Unfurnished,1,4,Immediate,Company,0,0,0,2,21500
+PN100269,Narhe,3,1599,Unfurnished,7,10,After 1 month,Company,1,1,2,4,19800
+PN100270,Wakad,2,551,Semi-Furnished,9,15,After 1 month,Family,1,1,1,3,34000
+PN100271,Sinhagad Road,3,1296,Unfurnished,11,16,Immediate,Family,1,1,2,4,25300
+PN100272,Sinhagad Road,3,928,Furnished,18,0,After 2 months,Family,1,1,1,5,28100
+PN100273,Kothrud,1,499,Semi-Furnished,8,16,After 1 month,Family,1,1,1,2,30600
+PN100274,Sinhagad Road,4,2339,Unfurnished,16,0,After 1 month,Family,1,1,1,4,38100
+PN100275,Narhe,2,934,Unfurnished,18,23,After 2 months,Company,0,1,0,2,12000
+PN100276,Baner,3,1047,Furnished,1,20,After 1 month,Family,0,1,1,7,46000
+PN100277,Baner,1,307,Semi-Furnished,2,9,After 2 months,Bachelor,1,0,0,1,24800
+PN100278,Baner,2,719,Semi-Furnished,1,16,After 2 months,Bachelor,1,1,0,4,32900
+PN100279,Sinhagad Road,2,881,Unfurnished,6,3,Immediate,Company,0,1,2,2,24000
+PN100280,Hadapsar,2,869,Semi-Furnished,13,9,Immediate,Family,1,1,1,4,26900
+PN100281,Kothrud,2,879,Semi-Furnished,3,1,After 2 months,Company,0,1,0,2,43100
+PN100282,Wakad,2,923,Furnished,1,17,After 2 months,Family,1,0,0,3,39600
+PN100283,Hadapsar,2,777,Unfurnished,4,19,After 2 months,Company,0,1,0,2,19700
+PN100284,Sinhagad Road,3,1187,Semi-Furnished,2,18,Immediate,Bachelor,1,0,2,7,23000
+PN100285,Hadapsar,1,537,Unfurnished,11,6,Immediate,Company,0,1,0,1,23200
+PN100286,Narhe,2,755,Furnished,6,21,After 2 months,Family,1,1,1,4,12900
+PN100287,Hadapsar,2,549,Unfurnished,3,30,After 2 months,Bachelor,1,1,1,2,17000
+PN100288,Wakad,3,1177,Semi-Furnished,20,10,After 2 months,Family,1,1,2,3,45200
+PN100289,Kothrud,4,1535,Semi-Furnished,12,9,After 2 months,Company,1,1,2,5,59300
+PN100290,Hadapsar,2,982,Unfurnished,10,9,Immediate,Bachelor,0,1,1,5,23800
+PN100291,Wakad,3,1497,Furnished,13,9,After 1 month,Family,0,1,1,4,45000
+PN100292,Kothrud,2,917,Semi-Furnished,5,20,Immediate,Family,1,1,1,2,38000
+PN100293,Hadapsar,1,400,Furnished,18,25,Immediate,Family,1,1,1,4,19000
+PN100294,Wakad,3,1368,Unfurnished,18,21,Immediate,Family,0,1,1,4,37600
+PN100295,Baner,2,513,Semi-Furnished,5,2,Immediate,Family,1,1,0,3,43100
+PN100296,Wakad,1,553,Semi-Furnished,8,23,After 2 months,Bachelor,0,1,2,3,24300
+PN100297,Baner,1,329,Semi-Furnished,20,25,After 1 month,Bachelor,1,1,2,2,25500
+PN100298,Wakad,3,1082,Unfurnished,20,16,Immediate,Family,0,1,1,3,40400
+PN100299,Kothrud,2,958,Semi-Furnished,16,24,After 2 months,Bachelor,1,1,2,4,33900
+PN100300,Sinhagad Road,2,697,Furnished,19,14,Immediate,Family,0,1,1,3,20900
+PN100301,Hadapsar,4,1449,Semi-Furnished,7,2,After 1 month,Bachelor,0,1,0,4,29400
+PN100302,Sinhagad Road,2,753,Semi-Furnished,10,21,Immediate,Family,0,1,0,3,19000
+PN100303,Sinhagad Road,1,348,Unfurnished,16,20,After 2 months,Family,1,1,1,1,15300
+PN100304,Sinhagad Road,2,759,Unfurnished,18,29,After 2 months,Bachelor,0,1,1,3,14400
+PN100305,Kothrud,2,815,Furnished,20,11,Immediate,Family,1,0,0,5,41800
+PN100306,Sinhagad Road,1,405,Furnished,8,29,After 2 months,Bachelor,0,1,0,1,14000
+PN100307,Wakad,3,1299,Semi-Furnished,17,21,Immediate,Family,0,1,1,3,38300
+PN100308,Kothrud,3,1127,Furnished,5,23,After 1 month,Family,1,1,0,4,39400
+PN100309,Hadapsar,2,974,Furnished,15,6,After 1 month,Family,0,1,0,2,25500
+PN100310,Baner,3,1571,Unfurnished,6,23,After 2 months,Family,0,1,1,4,42700
+PN100311,Kothrud,2,641,Semi-Furnished,13,24,After 2 months,Family,1,1,2,3,32000
+PN100312,Narhe,3,1204,Semi-Furnished,14,18,After 1 month,Family,0,1,0,5,13000
+PN100313,Narhe,3,1497,Furnished,4,22,After 2 months,Family,1,1,2,4,17500
+PN100314,Baner,2,922,Semi-Furnished,11,21,After 2 months,Family,1,1,1,2,35600
+PN100315,Wakad,3,1416,Unfurnished,10,1,After 2 months,Family,0,1,1,3,46600
+PN100316,Kothrud,1,443,Semi-Furnished,5,15,After 2 months,Family,0,1,1,1,27400
+PN100317,Wakad,2,558,Semi-Furnished,6,9,After 2 months,Family,1,1,3,4,34400
+PN100318,Kothrud,2,871,Furnished,12,21,Immediate,Family,0,1,0,2,35100
+PN100319,Dhayari,2,769,Semi-Furnished,16,26,After 1 month,Bachelor,1,1,3,3,11400
+PN100320,Baner,1,343,Unfurnished,10,0,Immediate,Family,1,1,1,2,31100
+PN100321,Wakad,3,1206,Unfurnished,18,10,After 2 months,Family,0,1,0,4,38600
+PN100322,Hadapsar,4,1875,Semi-Furnished,2,8,After 2 months,Family,0,0,1,5,34400
+PN100323,Baner,3,1453,Unfurnished,10,27,Immediate,Family,1,1,2,5,44200
+PN100324,Sinhagad Road,1,339,Unfurnished,7,5,After 2 months,Family,1,0,0,1,15300
+PN100325,Wakad,2,759,Unfurnished,7,29,Immediate,Family,1,1,1,4,29300
+PN100326,Baner,4,2439,Semi-Furnished,19,0,After 1 month,Company,0,1,2,5,77800
+PN100327,Narhe,2,746,Furnished,9,26,After 2 months,Family,0,1,1,2,11700
+PN100328,Narhe,3,1565,Unfurnished,13,29,After 1 month,Family,1,1,2,3,15500
+PN100329,Wakad,1,512,Unfurnished,3,23,After 1 month,Family,1,0,2,1,26100
+PN100330,Sinhagad Road,2,776,Semi-Furnished,19,27,Immediate,Bachelor,0,1,1,2,16400
+PN100331,Wakad,2,930,Semi-Furnished,3,17,After 2 months,Family,1,0,2,2,32400
+PN100332,Wakad,2,824,Semi-Furnished,18,11,After 2 months,Family,1,1,2,2,33800
+PN100333,Sinhagad Road,3,1147,Furnished,15,27,Immediate,Family,0,1,1,5,24100
+PN100334,Baner,4,2039,Furnished,5,30,After 2 months,Family,1,1,0,5,51900
+PN100335,Wakad,1,416,Unfurnished,6,20,Immediate,Family,1,1,4,2,27600
+PN100336,Narhe,2,724,Furnished,4,5,Immediate,Family,0,1,2,3,14800
+PN100337,Kothrud,2,534,Furnished,11,18,Immediate,Company,1,1,1,3,41200
+PN100338,Wakad,1,569,Furnished,4,25,Immediate,Family,1,1,1,5,29900
+PN100339,Sinhagad Road,3,972,Furnished,5,26,Immediate,Family,0,1,1,4,22000
+PN100340,Baner,2,619,Furnished,5,5,After 1 month,Bachelor,1,1,0,2,36600
+PN100341,Baner,3,1553,Semi-Furnished,13,10,After 1 month,Company,1,1,0,3,58600
+PN100342,Kothrud,2,833,Furnished,20,29,After 2 months,Bachelor,1,1,1,4,32800
+PN100343,Narhe,3,961,Unfurnished,10,16,Immediate,Family,0,1,0,4,14000
+PN100344,Kothrud,1,349,Unfurnished,8,20,After 1 month,Family,0,1,1,3,25900
+PN100345,Hadapsar,2,715,Unfurnished,12,0,After 1 month,Family,1,1,0,3,24000
+PN100346,Narhe,3,1337,Unfurnished,3,11,Immediate,Family,0,0,1,3,14200
+PN100347,Baner,1,320,Unfurnished,17,18,After 1 month,Bachelor,1,1,1,3,25900
+PN100348,Wakad,2,759,Semi-Furnished,5,21,After 1 month,Family,0,1,2,2,31500
+PN100349,Kothrud,3,1483,Semi-Furnished,13,22,After 2 months,Bachelor,0,1,1,3,39500
+PN100350,Wakad,4,1972,Furnished,8,11,Immediate,Company,0,1,2,5,76000
+PN100351,Hadapsar,2,641,Unfurnished,6,2,Immediate,Family,0,1,1,3,22000
+PN100352,Baner,4,1448,Semi-Furnished,9,13,Immediate,Family,1,1,0,6,47500
+PN100353,Baner,3,1217,Semi-Furnished,14,9,After 1 month,Family,1,1,0,5,44500
+PN100354,Hadapsar,1,340,Semi-Furnished,12,16,Immediate,Family,0,1,0,1,18200
+PN100355,Kothrud,1,491,Semi-Furnished,4,10,Immediate,Bachelor,0,1,0,3,29300
+PN100356,Sinhagad Road,1,467,Semi-Furnished,13,11,Immediate,Family,0,1,3,2,19100
+PN100357,Dhayari,3,1073,Semi-Furnished,11,22,Immediate,Family,1,1,2,4,13600
+PN100358,Baner,2,823,Semi-Furnished,2,29,Immediate,Family,0,0,2,3,31100
+PN100359,Baner,2,742,Semi-Furnished,10,14,After 1 month,Family,1,1,1,5,38900
+PN100360,Kothrud,2,897,Semi-Furnished,20,17,Immediate,Family,1,0,0,2,35600
+PN100361,Narhe,2,953,Unfurnished,5,26,Immediate,Company,0,1,2,5,12300
+PN100362,Wakad,3,1134,Unfurnished,11,0,Immediate,Bachelor,1,1,0,4,40400
+PN100363,Narhe,1,578,Semi-Furnished,8,23,After 1 month,Family,0,1,3,2,10900
+PN100364,Kothrud,1,421,Furnished,17,29,After 1 month,Bachelor,1,1,1,4,27400
+PN100365,Narhe,2,812,Semi-Furnished,13,21,Immediate,Family,0,1,2,2,11000
+PN100366,Dhayari,1,306,Semi-Furnished,11,3,After 1 month,Bachelor,1,1,0,3,8200
+PN100367,Kothrud,1,425,Furnished,19,10,Immediate,Family,0,1,0,3,33300
+PN100368,Kothrud,1,415,Semi-Furnished,7,23,After 1 month,Family,1,1,2,1,27000
+PN100369,Sinhagad Road,2,942,Unfurnished,20,2,Immediate,Family,1,1,2,2,24100
+PN100370,Narhe,4,1847,Semi-Furnished,2,26,After 2 months,Family,0,1,0,4,15400
+PN100371,Wakad,2,529,Unfurnished,8,9,Immediate,Family,0,1,1,3,33800
+PN100372,Baner,3,986,Furnished,7,5,After 1 month,Family,0,1,3,5,52100
+PN100373,Kothrud,3,1064,Furnished,3,8,Immediate,Company,1,0,1,5,48700
+PN100374,Baner,3,1453,Unfurnished,4,1,Immediate,Company,0,1,0,3,55400
+PN100375,Hadapsar,3,1432,Semi-Furnished,1,11,After 1 month,Bachelor,0,0,2,5,26800
+PN100376,Dhayari,2,853,Semi-Furnished,5,10,Immediate,Bachelor,0,1,0,4,10700
+PN100377,Wakad,3,1064,Semi-Furnished,3,6,After 1 month,Family,1,1,1,4,42200
+PN100378,Sinhagad Road,2,646,Unfurnished,18,30,Immediate,Company,1,1,3,3,19000
+PN100379,Sinhagad Road,2,964,Semi-Furnished,11,23,After 1 month,Family,0,1,0,4,18600
+PN100380,Kothrud,3,1046,Unfurnished,2,25,After 1 month,Family,0,0,3,4,35400
+PN100381,Baner,2,898,Semi-Furnished,2,26,Immediate,Family,1,0,1,5,33200
+PN100382,Sinhagad Road,3,1586,Furnished,19,30,After 1 month,Bachelor,1,1,2,4,23600
+PN100383,Narhe,3,1474,Semi-Furnished,19,5,Immediate,Bachelor,1,1,0,3,17300
+PN100384,Baner,1,488,Furnished,20,30,Immediate,Family,1,1,3,3,32600
+PN100385,Dhayari,1,468,Furnished,6,23,After 1 month,Family,0,1,2,2,9200
+PN100386,Dhayari,3,1012,Unfurnished,12,7,Immediate,Family,1,1,0,3,13800
+PN100387,Kothrud,2,500,Unfurnished,14,14,After 2 months,Company,1,1,0,5,34100
+PN100388,Dhayari,2,663,Unfurnished,12,2,Immediate,Bachelor,0,1,1,3,9200
+PN100389,Narhe,2,857,Furnished,1,10,After 2 months,Company,1,0,0,2,13600
+PN100390,Sinhagad Road,2,687,Furnished,11,12,After 2 months,Family,0,1,1,4,20700
+PN100391,Narhe,1,533,Unfurnished,6,27,After 2 months,Bachelor,0,1,1,1,7800
+PN100392,Narhe,3,912,Semi-Furnished,1,23,After 1 month,Family,0,0,0,3,11200
+PN100393,Sinhagad Road,3,1531,Furnished,15,29,After 2 months,Family,0,0,0,3,21300
+PN100394,Wakad,2,730,Furnished,16,20,After 2 months,Bachelor,0,1,2,2,30900
+PN100395,Baner,3,1180,Semi-Furnished,11,21,After 1 month,Company,0,1,0,5,41200
+PN100396,Sinhagad Road,1,353,Furnished,3,19,After 1 month,Family,1,0,1,2,15900
+PN100397,Wakad,2,529,Unfurnished,14,30,Immediate,Family,1,1,0,4,24500
+PN100398,Kothrud,2,914,Unfurnished,18,13,After 1 month,Bachelor,1,1,3,3,36900
+PN100399,Baner,2,773,Unfurnished,5,21,Immediate,Family,1,1,1,3,33400
+PN100400,Sinhagad Road,2,824,Semi-Furnished,4,11,Immediate,Family,1,0,1,2,20200
+PN100401,Baner,3,1573,Semi-Furnished,9,11,Immediate,Bachelor,1,1,3,4,50200
+PN100402,Sinhagad Road,2,678,Semi-Furnished,9,4,After 1 month,Family,0,1,0,2,21000
+PN100403,Hadapsar,1,516,Unfurnished,4,23,Immediate,Bachelor,1,0,1,1,16600
+PN100404,Hadapsar,3,1134,Unfurnished,14,12,After 2 months,Bachelor,1,1,0,3,25300
+PN100405,Kothrud,2,780,Semi-Furnished,2,29,After 2 months,Family,0,1,0,3,27100
+PN100406,Narhe,1,592,Unfurnished,7,9,Immediate,Family,1,1,0,2,11800
+PN100407,Narhe,1,445,Unfurnished,5,13,After 2 months,Family,0,1,1,2,10000
+PN100408,Hadapsar,2,728,Unfurnished,17,12,After 1 month,Company,0,1,1,3,24000
+PN100409,Hadapsar,2,599,Semi-Furnished,14,12,Immediate,Family,0,0,1,3,22100
+PN100410,Baner,2,791,Semi-Furnished,12,17,After 1 month,Family,1,1,2,3,35800
+PN100411,Wakad,1,534,Semi-Furnished,20,2,After 2 months,Bachelor,1,1,3,1,31500
+PN100412,Sinhagad Road,2,573,Furnished,16,13,After 1 month,Bachelor,0,1,0,6,17900
+PN100413,Sinhagad Road,2,767,Unfurnished,4,21,Immediate,Family,1,1,0,4,20000
+PN100414,Kothrud,3,1129,Unfurnished,3,0,Immediate,Family,1,0,0,5,44400
+PN100415,Narhe,3,1033,Unfurnished,17,6,Immediate,Family,1,1,0,3,15900
+PN100416,Sinhagad Road,3,932,Furnished,7,22,Immediate,Bachelor,0,1,1,4,22600
+PN100417,Baner,2,634,Furnished,12,3,After 1 month,Family,0,1,1,5,38400
+PN100418,Kothrud,2,713,Semi-Furnished,16,26,After 2 months,Family,1,1,0,2,29000
+PN100419,Sinhagad Road,3,1311,Unfurnished,10,12,Immediate,Family,0,0,1,3,22700
+PN100420,Kothrud,1,389,Furnished,7,7,After 1 month,Bachelor,0,0,5,1,31200
+PN100421,Narhe,2,861,Furnished,6,24,After 2 months,Bachelor,0,1,2,2,11500
+PN100422,Sinhagad Road,2,680,Unfurnished,9,7,After 1 month,Bachelor,1,1,1,3,20700
+PN100423,Kothrud,2,715,Semi-Furnished,20,21,After 1 month,Family,0,1,2,2,31700
+PN100424,Narhe,3,904,Semi-Furnished,20,19,After 2 months,Family,0,1,1,3,12500
+PN100425,Kothrud,2,514,Semi-Furnished,9,28,After 1 month,Bachelor,1,1,5,2,30100
+PN100426,Hadapsar,1,522,Furnished,20,29,After 1 month,Bachelor,0,1,2,3,17000
+PN100427,Narhe,4,2262,Semi-Furnished,14,27,After 1 month,Family,0,1,1,5,18100
+PN100428,Dhayari,3,1595,Semi-Furnished,8,26,After 2 months,Family,1,0,2,4,13200
+PN100429,Hadapsar,3,1053,Unfurnished,18,5,Immediate,Family,1,1,0,7,27500
+PN100430,Kothrud,3,1349,Unfurnished,6,1,After 2 months,Bachelor,0,1,1,4,45000
+PN100431,Kothrud,3,938,Semi-Furnished,11,16,After 1 month,Family,1,1,0,5,36900
+PN100432,Baner,1,436,Unfurnished,19,4,After 2 months,Family,0,1,0,1,28100
+PN100433,Sinhagad Road,2,751,Semi-Furnished,2,7,Immediate,Family,0,0,2,3,21600
+PN100434,Dhayari,3,1350,Unfurnished,5,11,After 1 month,Bachelor,0,1,1,3,12700
+PN100435,Wakad,2,998,Furnished,2,0,Immediate,Family,0,0,0,3,41800
+PN100436,Baner,3,1303,Semi-Furnished,3,20,Immediate,Bachelor,1,0,0,3,38400
+PN100437,Dhayari,2,516,Furnished,7,17,After 2 months,Family,0,0,2,3,8900
+PN100438,Hadapsar,1,556,Furnished,8,25,Immediate,Bachelor,1,1,2,3,18900
+PN100439,Baner,2,567,Semi-Furnished,3,4,Immediate,Family,1,0,2,2,40300
+PN100440,Hadapsar,2,870,Semi-Furnished,5,18,After 1 month,Company,1,1,0,4,26500
+PN100441,Kothrud,3,983,Unfurnished,13,14,Immediate,Family,0,1,1,3,38100
+PN100442,Baner,2,867,Furnished,2,18,After 1 month,Bachelor,1,0,1,3,38900
+PN100443,Hadapsar,2,884,Furnished,4,2,After 2 months,Bachelor,0,1,0,3,24300
+PN100444,Wakad,2,663,Semi-Furnished,16,1,After 2 months,Family,0,1,1,4,33800
+PN100445,Narhe,2,680,Semi-Furnished,20,29,After 2 months,Family,0,1,1,2,10100
+PN100446,Hadapsar,2,825,Unfurnished,16,4,Immediate,Bachelor,1,1,1,2,24300
+PN100447,Dhayari,2,883,Semi-Furnished,6,18,Immediate,Family,0,1,0,2,9900
+PN100448,Wakad,1,337,Furnished,3,18,Immediate,Bachelor,1,1,3,1,31000
+PN100449,Baner,2,910,Unfurnished,4,18,After 1 month,Bachelor,1,0,0,3,31400
+PN100450,Wakad,1,527,Furnished,2,6,After 1 month,Family,1,0,0,3,31100
+PN100451,Baner,3,1101,Unfurnished,1,26,Immediate,Bachelor,0,0,0,4,30700
+PN100452,Sinhagad Road,4,1409,Semi-Furnished,3,21,After 1 month,Bachelor,0,1,0,5,24400
+PN100453,Wakad,2,601,Unfurnished,16,16,After 1 month,Bachelor,0,1,1,3,28800
+PN100454,Narhe,1,387,Unfurnished,6,1,Immediate,Family,1,1,2,5,12000
+PN100455,Narhe,1,440,Semi-Furnished,12,5,After 2 months,Family,0,1,0,5,10300
+PN100456,Wakad,3,1082,Semi-Furnished,3,0,After 1 month,Bachelor,0,0,0,4,40700
+PN100457,Narhe,3,1268,Semi-Furnished,19,18,Immediate,Company,1,1,1,6,17400
+PN100458,Narhe,2,715,Semi-Furnished,8,26,After 1 month,Family,1,1,1,3,10800
+PN100459,Sinhagad Road,3,1235,Unfurnished,1,5,After 2 months,Company,1,0,0,6,26100
+PN100460,Sinhagad Road,1,342,Semi-Furnished,8,9,After 1 month,Company,0,1,2,1,18500
+PN100461,Hadapsar,2,827,Unfurnished,3,6,After 1 month,Family,1,1,0,6,25700
+PN100462,Wakad,2,827,Unfurnished,1,27,Immediate,Family,0,0,0,2,25400
+PN100463,Baner,1,439,Unfurnished,20,16,After 2 months,Family,0,1,2,2,27200
+PN100464,Wakad,2,532,Unfurnished,8,29,After 1 month,Family,1,1,0,2,24700
+PN100465,Wakad,2,977,Furnished,8,14,Immediate,Family,1,1,2,3,42100
+PN100466,Wakad,1,514,Unfurnished,16,18,Immediate,Bachelor,1,1,3,3,28200
+PN100467,Hadapsar,1,305,Unfurnished,13,25,Immediate,Family,0,1,0,2,14700
+PN100468,Baner,2,973,Unfurnished,19,19,Immediate,Bachelor,1,1,1,3,35600
+PN100469,Hadapsar,2,707,Unfurnished,1,1,After 2 months,Bachelor,1,0,0,5,19400
+PN100470,Wakad,2,656,Unfurnished,6,14,After 2 months,Family,0,1,1,2,32100
+PN100471,Narhe,2,866,Semi-Furnished,13,1,After 1 month,Company,0,1,0,2,15100
+PN100472,Dhayari,4,1472,Semi-Furnished,5,0,Immediate,Family,1,1,2,4,17900
+PN100473,Hadapsar,2,808,Unfurnished,18,14,After 2 months,Family,0,1,0,3,19300
+PN100474,Kothrud,2,747,Unfurnished,6,21,After 2 months,Family,1,1,1,2,29200
+PN100475,Narhe,2,506,Semi-Furnished,14,16,After 2 months,Bachelor,1,0,2,4,11800
+PN100476,Baner,1,561,Semi-Furnished,2,15,After 2 months,Family,1,0,1,2,31300
+PN100477,Baner,2,631,Semi-Furnished,2,28,After 2 months,Bachelor,0,0,1,3,26800
+PN100478,Baner,3,942,Furnished,18,24,Immediate,Bachelor,1,1,2,5,39200
+PN100479,Sinhagad Road,3,1213,Semi-Furnished,2,0,After 1 month,Family,1,0,1,8,24100
+PN100480,Baner,3,1585,Furnished,15,2,Immediate,Company,1,1,2,4,71300
+PN100481,Hadapsar,2,889,Unfurnished,7,10,After 1 month,Family,0,1,1,3,22400
+PN100482,Baner,2,636,Semi-Furnished,14,17,After 1 month,Family,0,1,1,3,32400
+PN100483,Sinhagad Road,1,413,Semi-Furnished,5,27,Immediate,Family,1,1,0,2,16800
+PN100484,Sinhagad Road,2,562,Unfurnished,10,21,After 1 month,Bachelor,1,1,2,3,17100
+PN100485,Narhe,2,975,Unfurnished,17,14,Immediate,Bachelor,0,1,0,3,11500
+PN100486,Hadapsar,1,420,Furnished,7,0,After 2 months,Family,1,1,1,4,23500
+PN100487,Dhayari,2,582,Semi-Furnished,18,2,After 2 months,Family,1,1,1,4,12000
+PN100488,Dhayari,2,652,Unfurnished,2,20,After 2 months,Bachelor,1,0,1,4,9100
+PN100489,Dhayari,2,609,Semi-Furnished,10,9,Immediate,Company,1,1,1,2,13100
+PN100490,Hadapsar,2,868,Semi-Furnished,7,20,After 1 month,Family,0,1,1,3,22700
+PN100491,Dhayari,2,586,Furnished,3,16,Immediate,Bachelor,0,0,0,3,8500
+PN100492,Wakad,1,513,Semi-Furnished,14,8,After 2 months,Bachelor,0,1,0,2,25800
+PN100493,Baner,2,906,Semi-Furnished,3,12,Immediate,Family,1,0,0,2,41300
+PN100494,Hadapsar,1,433,Semi-Furnished,13,11,After 1 month,Bachelor,1,1,1,1,19100
+PN100495,Wakad,1,437,Furnished,20,14,Immediate,Bachelor,0,1,0,1,29100
+PN100496,Baner,3,1133,Furnished,10,27,After 2 months,Family,1,1,0,3,39500
+PN100497,Sinhagad Road,1,417,Furnished,8,14,Immediate,Bachelor,1,1,3,4,18800
+PN100498,Narhe,3,1348,Unfurnished,12,28,Immediate,Family,0,1,1,5,13200
+PN100499,Baner,2,819,Semi-Furnished,3,28,After 1 month,Family,1,0,0,2,29900
+PN100500,Dhayari,3,1181,Furnished,6,16,Immediate,Bachelor,1,1,0,4,14000
+PN100501,Kothrud,3,1092,Unfurnished,18,16,After 1 month,Bachelor,0,1,2,4,34500
+PN100502,Baner,1,581,Unfurnished,16,27,After 1 month,Family,0,1,3,3,26400
+PN100503,Hadapsar,3,1098,Semi-Furnished,15,13,After 1 month,Bachelor,1,1,2,4,26000
+PN100504,Baner,2,929,Unfurnished,14,29,Immediate,Family,0,1,1,2,29400
+PN100505,Narhe,2,859,Semi-Furnished,12,3,Immediate,Bachelor,1,0,3,4,14600
+PN100506,Wakad,2,720,Semi-Furnished,6,26,After 2 months,Bachelor,1,1,0,3,28400
+PN100507,Hadapsar,2,938,Unfurnished,3,29,After 2 months,Family,0,0,1,2,18600
+PN100508,Hadapsar,3,1378,Semi-Furnished,19,10,Immediate,Company,1,1,1,5,33100
+PN100509,Dhayari,2,706,Unfurnished,12,15,After 1 month,Family,1,1,0,4,10600
+PN100510,Hadapsar,1,594,Semi-Furnished,1,25,After 2 months,Family,0,0,1,1,15200
+PN100511,Baner,1,391,Semi-Furnished,19,8,After 2 months,Bachelor,0,1,0,2,30700
+PN100512,Wakad,2,899,Furnished,16,22,Immediate,Family,1,1,1,4,35400
+PN100513,Narhe,2,944,Unfurnished,13,12,After 1 month,Company,0,1,1,3,14200
+PN100514,Narhe,1,536,Unfurnished,9,26,After 2 months,Family,0,1,4,2,9200
+PN100515,Wakad,2,817,Unfurnished,3,16,After 2 months,Family,0,0,0,3,26200
+PN100516,Wakad,3,1577,Semi-Furnished,16,2,After 2 months,Family,0,1,1,3,49800
+PN100517,Kothrud,2,768,Semi-Furnished,5,26,Immediate,Family,0,1,1,5,29700
+PN100518,Wakad,2,825,Furnished,16,23,After 1 month,Family,0,1,0,3,31900
+PN100519,Wakad,1,362,Furnished,19,21,Immediate,Family,0,1,0,2,26900
+PN100520,Baner,3,1416,Semi-Furnished,13,27,After 2 months,Company,0,0,0,4,43700
+PN100521,Sinhagad Road,3,1003,Furnished,20,12,After 1 month,Bachelor,0,1,2,4,24000
+PN100522,Wakad,1,475,Semi-Furnished,6,26,After 2 months,Bachelor,1,1,1,5,23900
+PN100523,Narhe,3,1358,Semi-Furnished,3,26,Immediate,Family,0,1,1,3,13600
+PN100524,Kothrud,3,1407,Semi-Furnished,14,15,Immediate,Bachelor,0,1,0,3,41200
+PN100525,Hadapsar,1,482,Unfurnished,17,14,Immediate,Family,0,0,1,3,18200
+PN100526,Baner,3,1238,Unfurnished,14,24,After 2 months,Family,0,1,0,5,37500
+PN100527,Wakad,3,947,Semi-Furnished,13,18,After 1 month,Family,0,1,1,4,33900
+PN100528,Kothrud,3,1090,Unfurnished,3,26,After 1 month,Family,1,0,1,5,34900
+PN100529,Baner,3,1187,Furnished,17,10,Immediate,Family,1,1,1,4,55300
+PN100530,Narhe,2,574,Semi-Furnished,5,20,After 1 month,Bachelor,1,1,1,4,12500
+PN100531,Hadapsar,2,826,Unfurnished,13,3,Immediate,Family,1,1,1,2,25900
+PN100532,Hadapsar,2,741,Unfurnished,19,14,After 1 month,Bachelor,1,1,2,3,21600
+PN100533,Sinhagad Road,2,795,Unfurnished,15,21,After 2 months,Company,0,1,4,4,19000
+PN100534,Wakad,2,937,Semi-Furnished,2,25,Immediate,Family,0,0,1,4,31000
+PN100535,Sinhagad Road,2,839,Unfurnished,3,19,Immediate,Family,1,1,0,4,19600
+PN100536,Baner,2,942,Unfurnished,20,14,After 2 months,Family,0,0,1,4,33800
+PN100537,Hadapsar,2,964,Furnished,17,14,After 1 month,Family,0,1,2,3,25000
+PN100538,Narhe,2,879,Unfurnished,6,6,Immediate,Company,1,1,1,4,16900
+PN100539,Wakad,2,570,Semi-Furnished,3,11,Immediate,Family,1,0,0,3,33000
+PN100540,Sinhagad Road,1,515,Unfurnished,15,9,After 1 month,Family,1,1,0,2,17400
+PN100541,Hadapsar,2,691,Semi-Furnished,11,7,Immediate,Bachelor,1,0,0,2,21900
+PN100542,Hadapsar,2,637,Unfurnished,19,6,After 1 month,Bachelor,1,0,0,2,21600
+PN100543,Wakad,2,689,Furnished,4,4,After 1 month,Family,0,1,2,2,41700
+PN100544,Kothrud,2,927,Unfurnished,17,15,After 2 months,Family,1,1,0,5,33100
+PN100545,Baner,2,725,Unfurnished,3,8,After 2 months,Company,1,0,0,2,40700
+PN100546,Kothrud,2,517,Furnished,7,18,After 1 month,Bachelor,0,1,2,2,32300
+PN100547,Sinhagad Road,1,331,Furnished,8,8,After 2 months,Family,0,1,1,2,16800
+PN100548,Baner,4,1600,Semi-Furnished,1,30,After 2 months,Company,1,0,2,4,47500
+PN100549,Kothrud,3,1086,Unfurnished,19,24,After 1 month,Family,1,1,3,5,38100
+PN100550,Narhe,1,569,Semi-Furnished,14,30,After 1 month,Company,0,1,2,2,10200
+PN100551,Wakad,2,630,Furnished,4,12,After 2 months,Family,1,1,1,3,35400
+PN100552,Baner,1,546,Semi-Furnished,11,7,After 1 month,Bachelor,1,1,1,1,35300
+PN100553,Kothrud,2,848,Unfurnished,11,30,After 1 month,Family,1,1,0,3,28000
+PN100554,Narhe,2,786,Unfurnished,9,29,After 1 month,Family,0,0,1,4,8600
+PN100555,Sinhagad Road,3,1399,Unfurnished,18,12,After 1 month,Bachelor,0,1,0,3,23000
+PN100556,Dhayari,1,572,Unfurnished,6,23,After 1 month,Family,1,1,2,1,9500
+PN100557,Kothrud,2,686,Semi-Furnished,13,12,Immediate,Bachelor,0,1,1,3,32500
+PN100558,Kothrud,3,901,Furnished,11,21,After 1 month,Family,1,1,1,5,40000
+PN100559,Wakad,2,968,Unfurnished,20,29,Immediate,Family,0,0,0,2,28100
+PN100560,Kothrud,2,923,Unfurnished,15,18,Immediate,Family,1,1,2,3,36500
+PN100561,Dhayari,3,1207,Unfurnished,11,8,After 1 month,Bachelor,1,1,1,3,13300
+PN100562,Baner,1,397,Furnished,11,15,After 2 months,Family,1,1,0,1,31100
+PN100563,Wakad,3,971,Unfurnished,12,26,After 2 months,Family,1,1,0,4,32300
+PN100564,Kothrud,1,489,Unfurnished,9,18,After 2 months,Bachelor,0,1,1,2,25800
+PN100565,Wakad,1,355,Unfurnished,16,5,After 2 months,Family,1,1,0,1,30500
+PN100566,Dhayari,1,491,Unfurnished,3,18,After 2 months,Company,1,0,2,1,9800
+PN100567,Kothrud,2,655,Unfurnished,5,26,After 2 months,Bachelor,0,1,2,6,26700
+PN100568,Wakad,3,1198,Unfurnished,15,3,After 2 months,Company,1,1,1,5,45500
+PN100569,Dhayari,2,783,Semi-Furnished,15,0,After 2 months,Bachelor,1,1,0,6,11300
+PN100570,Hadapsar,2,921,Semi-Furnished,18,11,Immediate,Bachelor,1,1,0,2,23000
+PN100571,Wakad,1,441,Furnished,17,12,Immediate,Family,1,1,1,1,34200
+PN100572,Narhe,2,617,Unfurnished,10,9,Immediate,Bachelor,1,1,2,2,12700
+PN100573,Sinhagad Road,2,782,Furnished,18,15,After 1 month,Family,0,1,1,3,20800
+PN100574,Hadapsar,3,1586,Furnished,3,1,After 1 month,Bachelor,1,0,1,4,33000
+PN100575,Narhe,3,1145,Semi-Furnished,3,24,Immediate,Family,0,0,3,4,13100
+PN100576,Hadapsar,2,980,Unfurnished,7,19,After 1 month,Family,0,1,0,3,19300
+PN100577,Dhayari,2,776,Furnished,15,23,After 2 months,Family,0,1,0,4,10400
+PN100578,Wakad,2,802,Semi-Furnished,16,22,After 1 month,Family,0,1,3,4,32300
+PN100579,Sinhagad Road,4,1404,Furnished,13,25,Immediate,Family,0,1,1,4,27300
+PN100580,Sinhagad Road,3,1136,Unfurnished,4,5,After 2 months,Family,1,1,0,3,26800
+PN100581,Dhayari,1,487,Unfurnished,4,18,After 2 months,Bachelor,0,1,1,1,7800
+PN100582,Narhe,2,589,Semi-Furnished,2,12,After 2 months,Company,0,0,1,5,11100
+PN100583,Hadapsar,1,461,Unfurnished,7,22,Immediate,Family,1,1,0,1,18000
+PN100584,Baner,2,884,Furnished,8,22,Immediate,Company,1,1,0,4,44800
+PN100585,Baner,3,1234,Furnished,16,16,Immediate,Bachelor,1,0,0,5,47700
+PN100586,Hadapsar,1,572,Unfurnished,18,16,Immediate,Family,0,1,1,2,18500
+PN100587,Hadapsar,2,513,Semi-Furnished,15,14,After 2 months,Family,1,1,0,4,21600
+PN100588,Baner,3,1314,Semi-Furnished,15,20,After 2 months,Family,1,1,0,3,42000
+PN100589,Kothrud,2,906,Unfurnished,9,24,After 2 months,Company,0,1,2,2,34200
+PN100590,Baner,2,558,Semi-Furnished,12,17,After 1 month,Family,1,1,3,3,36100
+PN100591,Sinhagad Road,2,991,Semi-Furnished,20,2,Immediate,Family,0,1,0,2,23200
+PN100592,Hadapsar,2,599,Semi-Furnished,16,2,After 2 months,Family,1,1,1,4,23100
+PN100593,Hadapsar,1,587,Semi-Furnished,3,3,Immediate,Bachelor,0,1,1,2,20300
+PN100594,Baner,1,538,Furnished,2,29,After 2 months,Bachelor,1,0,0,1,25000
+PN100595,Hadapsar,3,1136,Semi-Furnished,12,1,Immediate,Bachelor,0,1,1,4,27600
+PN100596,Dhayari,2,700,Unfurnished,3,6,After 1 month,Bachelor,0,0,0,6,8900
+PN100597,Narhe,3,1557,Unfurnished,2,17,After 2 months,Family,0,0,1,5,13400
+PN100598,Sinhagad Road,1,421,Furnished,17,28,Immediate,Family,0,1,1,2,15500
+PN100599,Kothrud,2,595,Furnished,6,8,After 2 months,Bachelor,1,1,0,3,38500
+PN100600,Sinhagad Road,2,878,Unfurnished,14,30,Immediate,Family,0,1,0,2,17400
+PN100601,Hadapsar,2,888,Semi-Furnished,20,21,After 1 month,Company,1,1,1,2,23700
+PN100602,Dhayari,3,1049,Semi-Furnished,14,15,After 2 months,Family,0,1,1,5,10200
+PN100603,Kothrud,3,1150,Unfurnished,9,8,After 1 month,Company,1,1,0,3,44500
+PN100604,Baner,2,624,Furnished,5,14,After 1 month,Family,0,1,1,4,34200
+PN100605,Kothrud,3,1485,Unfurnished,9,13,After 2 months,Family,0,1,2,4,48600
+PN100606,Wakad,1,415,Semi-Furnished,19,15,Immediate,Family,1,1,0,1,29100
+PN100607,Wakad,3,1020,Unfurnished,11,9,After 1 month,Family,0,1,1,4,37800
+PN100608,Kothrud,3,1382,Semi-Furnished,3,20,Immediate,Company,1,0,3,3,46700
+PN100609,Sinhagad Road,2,887,Unfurnished,8,6,After 2 months,Bachelor,0,1,0,2,20500
+PN100610,Hadapsar,1,582,Semi-Furnished,11,14,After 2 months,Family,1,1,0,2,19200
+PN100611,Kothrud,1,311,Unfurnished,13,12,After 1 month,Bachelor,0,1,2,1,25800
+PN100612,Kothrud,2,968,Furnished,3,7,After 1 month,Family,0,0,1,3,43900
+PN100613,Kothrud,2,992,Semi-Furnished,5,19,Immediate,Family,0,1,1,2,35000
+PN100614,Narhe,1,527,Unfurnished,17,14,Immediate,Family,1,1,1,3,11500
+PN100615,Kothrud,3,1063,Furnished,14,1,After 1 month,Family,0,1,1,3,48500
+PN100616,Hadapsar,1,329,Semi-Furnished,12,12,After 2 months,Bachelor,1,1,0,2,16600
+PN100617,Wakad,3,1449,Furnished,12,5,Immediate,Bachelor,0,1,2,4,48600
+PN100618,Baner,3,1416,Unfurnished,10,19,Immediate,Family,0,1,1,3,43800
+PN100619,Wakad,2,594,Unfurnished,7,6,Immediate,Family,1,1,0,2,33200
+PN100620,Hadapsar,4,1783,Unfurnished,1,2,After 1 month,Family,0,0,2,5,31400
+PN100621,Baner,1,572,Unfurnished,9,15,Immediate,Family,0,1,1,2,27600
+PN100622,Narhe,2,894,Unfurnished,12,22,Immediate,Family,1,1,0,3,12200
+PN100623,Wakad,4,2391,Furnished,11,0,After 1 month,Bachelor,0,1,3,5,62000
+PN100624,Hadapsar,2,958,Unfurnished,1,7,Immediate,Family,1,0,0,3,23200
+PN100625,Wakad,1,395,Semi-Furnished,12,28,After 1 month,Bachelor,0,0,2,3,20900
+PN100626,Kothrud,1,545,Semi-Furnished,13,15,Immediate,Company,1,1,0,1,33100
+PN100627,Wakad,2,835,Furnished,13,1,After 2 months,Company,0,1,0,3,43500
+PN100628,Hadapsar,2,572,Semi-Furnished,20,11,After 1 month,Family,0,1,0,5,21400
+PN100629,Baner,2,663,Unfurnished,5,23,After 1 month,Bachelor,0,1,1,3,30300
+PN100630,Dhayari,3,1426,Unfurnished,19,11,Immediate,Family,0,1,1,3,14000
+PN100631,Sinhagad Road,1,445,Furnished,11,23,After 1 month,Company,1,1,0,3,16600
+PN100632,Dhayari,3,935,Unfurnished,9,12,Immediate,Bachelor,0,1,0,4,10600
+PN100633,Baner,4,2340,Unfurnished,20,3,After 2 months,Bachelor,0,1,1,4,62300
+PN100634,Baner,1,422,Unfurnished,5,15,After 2 months,Bachelor,1,1,0,3,28800
+PN100635,Wakad,3,1041,Semi-Furnished,5,28,Immediate,Family,0,1,0,3,31200
+PN100636,Dhayari,3,1455,Unfurnished,8,16,After 2 months,Bachelor,0,1,3,4,12600
+PN100637,Baner,3,1144,Unfurnished,20,30,After 1 month,Bachelor,1,0,0,4,33400
+PN100638,Sinhagad Road,2,689,Unfurnished,11,22,After 1 month,Bachelor,0,1,4,3,17000
+PN100639,Wakad,3,1540,Furnished,8,19,After 2 months,Family,0,1,0,3,41600
+PN100640,Hadapsar,2,922,Furnished,10,14,After 1 month,Family,1,1,2,2,26900
+PN100641,Kothrud,1,357,Semi-Furnished,2,20,After 2 months,Family,0,0,0,2,25100
+PN100642,Hadapsar,1,307,Semi-Furnished,6,28,After 2 months,Company,0,1,1,3,14700
+PN100643,Kothrud,1,466,Semi-Furnished,7,3,After 1 month,Family,1,1,2,4,34400
+PN100644,Dhayari,3,1010,Unfurnished,4,20,Immediate,Family,1,1,1,3,13200
+PN100645,Baner,3,1526,Unfurnished,17,25,After 2 months,Company,1,1,0,3,51100
+PN100646,Baner,1,436,Semi-Furnished,5,19,Immediate,Bachelor,0,1,3,1,28600
+PN100647,Baner,2,510,Unfurnished,15,5,After 1 month,Bachelor,0,0,1,3,31500
+PN100648,Baner,3,1268,Furnished,16,9,After 1 month,Family,0,1,0,5,54200
+PN100649,Wakad,1,439,Unfurnished,15,10,After 1 month,Family,0,1,2,4,28600
+PN100650,Hadapsar,2,615,Semi-Furnished,7,21,Immediate,Family,0,1,3,3,20200
+PN100651,Baner,3,1266,Unfurnished,20,24,After 1 month,Family,0,1,1,3,40600
+PN100652,Wakad,1,463,Unfurnished,20,13,After 2 months,Bachelor,0,0,0,3,21900
+PN100653,Wakad,1,378,Unfurnished,11,13,After 1 month,Bachelor,0,1,1,2,22400
+PN100654,Sinhagad Road,1,363,Semi-Furnished,4,21,After 2 months,Bachelor,1,1,1,5,17200
+PN100655,Hadapsar,2,880,Unfurnished,4,17,After 2 months,Bachelor,0,1,1,2,19100
+PN100656,Narhe,3,1087,Unfurnished,10,1,After 1 month,Bachelor,1,1,0,5,15000
+PN100657,Hadapsar,2,688,Unfurnished,20,2,After 2 months,Family,1,1,0,2,22400
+PN100658,Kothrud,2,791,Unfurnished,7,17,Immediate,Family,1,1,1,3,36600
+PN100659,Baner,3,930,Unfurnished,14,3,After 1 month,Family,1,1,1,3,44500
+PN100660,Hadapsar,1,338,Furnished,10,8,After 1 month,Bachelor,1,1,1,2,21400
+PN100661,Hadapsar,3,1592,Furnished,11,30,After 1 month,Family,0,1,1,5,27600
+PN100662,Kothrud,3,1481,Unfurnished,16,11,After 1 month,Bachelor,0,1,0,4,44300
+PN100663,Hadapsar,3,932,Semi-Furnished,11,9,After 1 month,Bachelor,1,1,2,4,26900
+PN100664,Hadapsar,2,746,Unfurnished,18,28,After 2 months,Family,1,1,0,2,20300
+PN100665,Sinhagad Road,2,872,Unfurnished,9,11,Immediate,Family,1,1,0,4,20600
+PN100666,Sinhagad Road,2,920,Semi-Furnished,20,25,Immediate,Bachelor,1,1,1,5,19600
+PN100667,Kothrud,1,471,Semi-Furnished,16,30,Immediate,Family,1,1,2,3,28700
+PN100668,Kothrud,1,523,Unfurnished,7,27,Immediate,Family,0,1,0,2,25100
+PN100669,Dhayari,1,496,Semi-Furnished,16,9,After 2 months,Bachelor,1,1,0,3,9700
+PN100670,Baner,3,1022,Unfurnished,17,14,After 2 months,Company,0,1,0,4,39100
+PN100671,Wakad,3,1193,Semi-Furnished,1,12,After 1 month,Company,0,0,2,3,47900
+PN100672,Sinhagad Road,1,474,Unfurnished,10,3,Immediate,Family,1,1,0,1,19700
+PN100673,Kothrud,1,494,Semi-Furnished,18,15,After 1 month,Bachelor,0,1,0,1,30700
+PN100674,Baner,1,314,Unfurnished,18,6,After 2 months,Family,1,1,0,1,33000
+PN100675,Kothrud,3,900,Unfurnished,19,9,Immediate,Family,1,1,2,3,43400
+PN100676,Wakad,2,511,Furnished,16,24,After 2 months,Family,1,1,0,2,27300
+PN100677,Wakad,1,578,Semi-Furnished,19,10,After 2 months,Bachelor,1,1,2,2,30000
+PN100678,Kothrud,3,1557,Unfurnished,18,26,Immediate,Company,1,1,0,5,39400
+PN100679,Baner,3,1367,Unfurnished,4,27,After 1 month,Family,1,1,0,3,38700
+PN100680,Dhayari,1,305,Unfurnished,9,15,After 1 month,Family,1,1,1,2,9200
+PN100681,Sinhagad Road,2,837,Furnished,16,1,Immediate,Family,1,1,1,2,25300
+PN100682,Kothrud,2,575,Semi-Furnished,17,14,Immediate,Family,0,1,1,4,33500
+PN100683,Narhe,3,1456,Semi-Furnished,13,11,After 2 months,Family,0,1,1,5,16000
+PN100684,Dhayari,2,774,Semi-Furnished,19,17,After 1 month,Bachelor,1,1,1,3,10600
+PN100685,Wakad,2,625,Furnished,3,16,After 2 months,Company,1,1,3,4,38500
+PN100686,Hadapsar,2,649,Furnished,15,15,Immediate,Family,1,1,3,4,25500
+PN100687,Baner,3,1545,Unfurnished,13,22,After 1 month,Family,0,1,0,5,40100
+PN100688,Sinhagad Road,3,1488,Unfurnished,1,10,Immediate,Bachelor,1,0,0,3,23700
+PN100689,Wakad,2,846,Furnished,11,12,After 1 month,Family,1,0,0,2,38700
+PN100690,Narhe,3,1202,Unfurnished,19,7,Immediate,Bachelor,1,1,0,4,14900
+PN100691,Sinhagad Road,1,544,Unfurnished,2,12,Immediate,Bachelor,1,1,1,2,18800
+PN100692,Kothrud,1,476,Semi-Furnished,19,22,After 1 month,Bachelor,1,1,0,2,25100
+PN100693,Wakad,1,357,Furnished,5,17,Immediate,Family,1,1,2,1,31500
+PN100694,Baner,4,2498,Unfurnished,5,13,Immediate,Family,0,1,0,4,62500
+PN100695,Sinhagad Road,2,518,Unfurnished,5,17,Immediate,Family,1,0,1,2,17700
+PN100696,Narhe,3,934,Unfurnished,15,29,After 2 months,Family,1,1,1,4,11300
+PN100697,Kothrud,2,720,Furnished,16,18,After 2 months,Family,1,1,2,2,38400
+PN100698,Hadapsar,2,541,Unfurnished,19,18,After 1 month,Bachelor,0,1,0,2,16800
+PN100699,Dhayari,1,344,Unfurnished,17,5,After 1 month,Family,0,1,1,2,9000
+PN100700,Hadapsar,1,586,Unfurnished,3,9,After 2 months,Bachelor,1,0,2,1,20200
+PN100701,Dhayari,2,503,Furnished,15,30,After 2 months,Company,1,1,1,2,9700
+PN100702,Dhayari,3,1108,Semi-Furnished,2,15,After 2 months,Company,1,0,0,5,12900
+PN100703,Hadapsar,1,392,Semi-Furnished,6,12,After 2 months,Family,1,1,0,2,19100
+PN100704,Hadapsar,2,604,Furnished,17,7,Immediate,Bachelor,1,1,1,2,24700
+PN100705,Hadapsar,2,536,Semi-Furnished,4,9,After 2 months,Family,0,1,1,3,19500
+PN100706,Wakad,1,359,Unfurnished,8,22,After 1 month,Family,0,1,2,2,23100
+PN100707,Baner,1,482,Unfurnished,5,16,After 1 month,Bachelor,1,1,0,3,26700
+PN100708,Kothrud,2,874,Unfurnished,7,5,After 2 months,Bachelor,1,1,0,2,34900
+PN100709,Kothrud,3,1224,Furnished,15,18,After 1 month,Family,1,1,1,6,44100
+PN100710,Narhe,2,514,Semi-Furnished,13,24,After 1 month,Family,1,1,0,3,11500
+PN100711,Dhayari,2,529,Unfurnished,17,18,After 2 months,Company,0,0,2,3,9300
+PN100712,Dhayari,2,579,Unfurnished,9,19,After 1 month,Family,0,1,1,5,8500
+PN100713,Hadapsar,2,938,Unfurnished,8,16,After 2 months,Bachelor,0,1,1,2,21100
+PN100714,Narhe,4,2293,Semi-Furnished,1,1,After 2 months,Family,0,1,0,4,21800
+PN100715,Baner,1,475,Semi-Furnished,8,20,After 2 months,Family,0,1,1,3,27600
+PN100716,Hadapsar,1,513,Semi-Furnished,7,26,After 2 months,Bachelor,0,1,3,3,17100
+PN100717,Hadapsar,2,500,Unfurnished,19,26,Immediate,Bachelor,0,1,0,2,15700
+PN100718,Wakad,3,986,Unfurnished,9,8,After 1 month,Bachelor,1,1,2,4,38100
+PN100719,Sinhagad Road,2,931,Furnished,13,4,After 1 month,Company,1,0,3,3,25500
+PN100720,Wakad,2,816,Unfurnished,20,30,After 1 month,Family,1,1,0,2,28000
+PN100721,Hadapsar,2,705,Unfurnished,4,17,After 1 month,Bachelor,0,1,0,5,17500
+PN100722,Baner,3,1286,Unfurnished,1,29,After 1 month,Family,0,0,1,4,36300
+PN100723,Narhe,2,945,Unfurnished,13,14,After 2 months,Family,1,1,0,2,13000
+PN100724,Wakad,3,997,Unfurnished,3,17,After 2 months,Family,1,0,2,4,35800
+PN100725,Sinhagad Road,2,555,Semi-Furnished,12,29,After 1 month,Bachelor,1,1,1,3,15800
+PN100726,Dhayari,2,771,Semi-Furnished,11,17,Immediate,Bachelor,1,1,1,3,11300
+PN100727,Kothrud,1,380,Semi-Furnished,7,6,After 1 month,Bachelor,0,1,1,1,31200
+PN100728,Wakad,1,404,Unfurnished,7,4,Immediate,Family,0,1,0,2,29000
+PN100729,Hadapsar,2,938,Furnished,18,28,After 2 months,Family,1,1,0,2,22800
+PN100730,Wakad,2,517,Unfurnished,13,6,Immediate,Family,1,0,2,3,35400
+PN100731,Hadapsar,3,1183,Furnished,3,9,Immediate,Bachelor,1,0,0,3,27600
+PN100732,Wakad,3,1481,Furnished,5,29,Immediate,Family,0,0,0,3,42400
+PN100733,Baner,2,960,Unfurnished,3,16,Immediate,Family,0,1,1,5,36200
+PN100734,Kothrud,2,749,Unfurnished,13,1,After 1 month,Family,0,1,2,4,36900
+PN100735,Dhayari,1,351,Furnished,6,17,After 1 month,Family,1,1,0,2,9600
+PN100736,Wakad,2,750,Semi-Furnished,15,14,Immediate,Company,0,1,1,3,35000
+PN100737,Sinhagad Road,2,523,Semi-Furnished,6,14,Immediate,Bachelor,0,1,0,3,16500
+PN100738,Kothrud,1,398,Unfurnished,10,29,After 1 month,Bachelor,1,1,1,3,23000
+PN100739,Kothrud,2,772,Semi-Furnished,14,5,Immediate,Company,0,1,0,2,41700
+PN100740,Narhe,2,609,Furnished,10,23,After 1 month,Family,0,1,0,3,10900
+PN100741,Dhayari,4,2109,Unfurnished,18,4,After 2 months,Family,0,1,0,5,16400
+PN100742,Kothrud,3,1427,Unfurnished,16,11,After 1 month,Family,0,1,1,3,44100
+PN100743,Wakad,1,486,Semi-Furnished,20,22,After 1 month,Family,0,1,2,4,25900
+PN100744,Sinhagad Road,2,595,Furnished,8,18,After 2 months,Family,1,1,1,4,22200
+PN100745,Narhe,3,1400,Furnished,4,25,After 1 month,Family,0,1,0,4,13800
+PN100746,Sinhagad Road,2,778,Furnished,16,22,After 2 months,Family,1,1,0,4,20800
+PN100747,Dhayari,2,816,Semi-Furnished,5,1,After 1 month,Bachelor,1,0,1,4,11200
+PN100748,Baner,2,653,Furnished,5,2,Immediate,Bachelor,1,1,1,2,42800
+PN100749,Narhe,1,381,Semi-Furnished,6,10,After 2 months,Company,0,1,0,1,10600
+PN100750,Hadapsar,1,569,Semi-Furnished,17,19,After 1 month,Bachelor,0,1,1,1,18400
+PN100751,Sinhagad Road,2,625,Unfurnished,8,27,Immediate,Family,0,0,0,2,14700
+PN100752,Baner,2,690,Furnished,2,14,Immediate,Company,0,0,0,4,44100
+PN100753,Wakad,3,1393,Unfurnished,4,26,After 1 month,Family,0,1,1,3,34800
+PN100754,Baner,3,1098,Unfurnished,5,12,After 1 month,Family,0,1,0,4,39100
+PN100755,Narhe,1,373,Semi-Furnished,19,24,After 2 months,Family,1,1,1,2,10700
+PN100756,Baner,3,1323,Furnished,12,13,After 2 months,Family,0,1,0,3,46700
+PN100757,Sinhagad Road,2,636,Furnished,14,3,After 1 month,Bachelor,0,1,1,3,21100
+PN100758,Baner,3,1240,Unfurnished,2,20,After 2 months,Company,1,0,1,3,44400
+PN100759,Baner,2,711,Unfurnished,12,4,After 1 month,Family,0,1,1,3,38100
+PN100760,Sinhagad Road,1,431,Semi-Furnished,18,17,Immediate,Bachelor,0,1,1,2,15500
+PN100761,Narhe,2,975,Unfurnished,17,4,After 2 months,Family,0,1,1,3,11800
+PN100762,Wakad,2,673,Semi-Furnished,4,27,After 1 month,Bachelor,1,1,2,4,25700
+PN100763,Wakad,2,630,Unfurnished,3,10,Immediate,Bachelor,1,1,4,2,32500
+PN100764,Wakad,1,488,Unfurnished,3,21,Immediate,Family,0,0,1,2,26200
+PN100765,Wakad,3,1033,Semi-Furnished,1,15,After 1 month,Family,0,0,1,3,36400
+PN100766,Wakad,3,1565,Furnished,7,25,Immediate,Family,0,1,1,3,42700
+PN100767,Hadapsar,2,567,Semi-Furnished,11,28,After 1 month,Family,1,1,1,3,18800
+PN100768,Hadapsar,3,1455,Semi-Furnished,9,0,Immediate,Family,1,1,1,4,34900
+PN100769,Baner,2,753,Semi-Furnished,6,15,After 2 months,Company,1,1,1,4,37400
+PN100770,Baner,3,1221,Unfurnished,5,3,Immediate,Family,0,0,1,5,47900
+PN100771,Wakad,2,872,Furnished,2,18,After 2 months,Family,1,1,0,3,37900
+PN100772,Wakad,4,1483,Semi-Furnished,4,26,Immediate,Family,1,1,1,4,41000
+PN100773,Dhayari,3,1286,Furnished,18,25,After 2 months,Family,1,1,2,3,14800
+PN100774,Kothrud,3,1428,Unfurnished,19,25,After 2 months,Family,1,1,0,3,40800
+PN100775,Baner,2,971,Furnished,18,28,Immediate,Family,1,1,2,4,39300
+PN100776,Kothrud,2,668,Semi-Furnished,20,9,After 2 months,Family,0,1,1,2,38800
+PN100777,Sinhagad Road,1,303,Furnished,15,9,After 2 months,Bachelor,0,0,0,2,16000
+PN100778,Wakad,2,631,Semi-Furnished,2,17,After 2 months,Family,0,0,3,2,31500
+PN100779,Wakad,2,882,Furnished,12,11,After 1 month,Family,1,1,1,2,43000
+PN100780,Narhe,2,808,Unfurnished,15,3,After 1 month,Family,1,1,0,3,13500
+PN100781,Wakad,3,1425,Semi-Furnished,5,15,Immediate,Family,1,1,1,4,43600
+PN100782,Dhayari,3,1578,Furnished,14,19,After 2 months,Company,1,1,2,4,15500
+PN100783,Wakad,2,874,Unfurnished,7,29,Immediate,Bachelor,1,1,0,4,27500
+PN100784,Baner,3,1165,Unfurnished,10,23,After 1 month,Family,1,1,2,3,34500
+PN100785,Sinhagad Road,1,519,Semi-Furnished,16,24,Immediate,Bachelor,1,1,2,1,16300
+PN100786,Wakad,2,679,Furnished,4,9,After 1 month,Family,0,1,0,3,36000
+PN100787,Wakad,2,712,Semi-Furnished,9,1,After 2 months,Bachelor,0,1,0,3,31600
+PN100788,Narhe,1,590,Semi-Furnished,19,18,Immediate,Family,1,1,1,1,11400
+PN100789,Baner,2,671,Semi-Furnished,12,20,Immediate,Family,0,1,0,7,32700
+PN100790,Sinhagad Road,1,341,Furnished,6,18,After 2 months,Family,1,1,1,1,16900
+PN100791,Narhe,2,639,Unfurnished,12,23,Immediate,Family,1,1,1,2,11400
+PN100792,Baner,2,611,Semi-Furnished,16,4,After 1 month,Family,0,1,0,2,35000
+PN100793,Baner,1,403,Furnished,18,26,After 2 months,Bachelor,0,1,0,4,24800
+PN100794,Dhayari,1,557,Furnished,1,30,After 1 month,Family,1,1,2,1,10900
+PN100795,Wakad,4,1943,Semi-Furnished,11,14,Immediate,Bachelor,0,1,3,4,53800
+PN100796,Baner,1,477,Unfurnished,8,14,After 1 month,Family,0,0,0,4,28200
+PN100797,Narhe,1,364,Furnished,16,3,After 1 month,Family,0,1,0,2,10400
+PN100798,Narhe,2,720,Semi-Furnished,9,20,Immediate,Family,0,1,1,3,11200
+PN100799,Sinhagad Road,3,1088,Furnished,7,30,Immediate,Bachelor,0,1,1,3,20200
+PN100800,Sinhagad Road,3,1308,Unfurnished,12,11,After 1 month,Family,0,1,1,4,25200
+PN100801,Baner,3,1593,Unfurnished,17,27,Immediate,Bachelor,1,1,1,7,41600
+PN100802,Narhe,1,341,Unfurnished,7,5,After 2 months,Bachelor,1,1,0,1,10800
+PN100803,Hadapsar,2,755,Unfurnished,6,18,After 1 month,Company,1,1,0,4,23700
+PN100804,Kothrud,1,382,Unfurnished,4,21,After 1 month,Family,0,1,0,1,25700
+PN100805,Wakad,2,950,Unfurnished,3,8,After 1 month,Family,1,0,1,3,35100
+PN100806,Hadapsar,2,725,Unfurnished,15,8,Immediate,Family,1,0,1,2,22100
+PN100807,Sinhagad Road,3,1235,Unfurnished,12,11,Immediate,Family,1,1,0,3,24100
+PN100808,Wakad,2,500,Unfurnished,4,6,Immediate,Family,0,1,1,5,32900
+PN100809,Sinhagad Road,1,514,Semi-Furnished,7,1,After 1 month,Family,1,1,1,3,18100
+PN100810,Sinhagad Road,3,1459,Semi-Furnished,19,18,After 2 months,Family,1,1,2,3,28400
+PN100811,Narhe,4,2359,Unfurnished,17,29,After 1 month,Family,1,1,2,4,19400
+PN100812,Kothrud,2,741,Unfurnished,5,22,Immediate,Family,0,1,1,2,31900
+PN100813,Wakad,1,485,Furnished,20,22,After 2 months,Family,1,1,0,1,28600
+PN100814,Baner,1,450,Unfurnished,16,27,After 1 month,Family,1,1,0,2,26300
+PN100815,Kothrud,2,544,Unfurnished,18,17,Immediate,Company,0,0,0,3,33400
+PN100816,Baner,2,518,Unfurnished,15,12,After 1 month,Family,0,1,0,2,31400
+PN100817,Sinhagad Road,2,693,Unfurnished,16,4,After 1 month,Family,1,1,0,3,20200
+PN100818,Baner,2,730,Unfurnished,18,4,After 2 months,Family,0,1,1,2,36900
+PN100819,Wakad,2,692,Unfurnished,20,27,After 2 months,Family,1,1,3,2,31100
+PN100820,Baner,1,357,Unfurnished,12,24,After 2 months,Family,1,1,0,3,25900
+PN100821,Wakad,4,2415,Semi-Furnished,2,0,After 2 months,Family,0,0,3,6,57600
+PN100822,Hadapsar,3,1118,Furnished,10,20,Immediate,Family,0,1,1,4,28700
+PN100823,Baner,2,504,Semi-Furnished,17,23,After 1 month,Family,1,1,1,5,31500
+PN100824,Dhayari,2,925,Semi-Furnished,19,20,Immediate,Bachelor,0,1,1,3,10900
+PN100825,Kothrud,2,697,Unfurnished,11,18,Immediate,Bachelor,1,0,0,2,30000
+PN100826,Hadapsar,4,1600,Furnished,18,16,Immediate,Family,0,1,3,7,39200
+PN100827,Hadapsar,3,918,Unfurnished,3,16,After 2 months,Bachelor,0,0,0,5,20300
+PN100828,Kothrud,2,538,Semi-Furnished,14,3,Immediate,Family,0,1,0,2,34600
+PN100829,Kothrud,3,1045,Semi-Furnished,18,9,After 1 month,Family,1,1,2,4,44200
+PN100830,Hadapsar,2,708,Semi-Furnished,1,0,After 2 months,Bachelor,0,0,0,3,21900
+PN100831,Kothrud,4,2194,Unfurnished,15,18,After 1 month,Company,1,0,0,5,58900
+PN100832,Baner,1,408,Semi-Furnished,8,0,Immediate,Bachelor,1,1,0,1,31800
+PN100833,Wakad,3,1045,Unfurnished,7,15,After 1 month,Family,1,1,3,5,38000
+PN100834,Kothrud,2,753,Semi-Furnished,4,1,Immediate,Family,0,1,1,3,38100
+PN100835,Kothrud,2,754,Unfurnished,14,18,After 2 months,Company,0,1,1,2,34800
+PN100836,Baner,2,503,Unfurnished,18,6,Immediate,Bachelor,0,0,2,3,34400
+PN100837,Baner,3,1577,Furnished,20,22,After 1 month,Bachelor,1,0,0,4,44800
+PN100838,Sinhagad Road,2,684,Unfurnished,5,30,Immediate,Family,0,1,1,2,14600
+PN100839,Sinhagad Road,3,1007,Unfurnished,9,25,After 1 month,Bachelor,0,1,1,3,16300
+PN100840,Sinhagad Road,2,998,Unfurnished,13,27,After 2 months,Bachelor,1,1,1,2,18100
+PN100841,Baner,1,478,Semi-Furnished,14,29,After 1 month,Bachelor,0,1,1,2,24300
+PN100842,Wakad,3,1315,Semi-Furnished,14,2,After 1 month,Bachelor,1,0,2,3,41200
+PN100843,Wakad,3,1168,Unfurnished,1,23,After 2 months,Company,0,0,1,4,36000
+PN100844,Narhe,3,1224,Unfurnished,8,9,After 1 month,Family,1,1,0,4,14700
+PN100845,Narhe,3,1067,Unfurnished,18,15,Immediate,Bachelor,1,1,0,3,12600
+PN100846,Dhayari,3,1519,Unfurnished,10,24,Immediate,Company,0,1,3,4,14300
+PN100847,Sinhagad Road,1,548,Semi-Furnished,11,12,After 2 months,Family,0,1,1,3,16700
+PN100848,Baner,3,1338,Semi-Furnished,14,2,After 1 month,Bachelor,0,1,0,4,49300
+PN100849,Narhe,2,767,Semi-Furnished,20,12,After 2 months,Bachelor,1,1,1,4,12200
+PN100850,Baner,1,558,Unfurnished,15,23,After 2 months,Family,1,1,0,3,27900
+PN100851,Kothrud,2,699,Furnished,8,30,After 2 months,Bachelor,0,1,0,3,31400
+PN100852,Narhe,3,1346,Semi-Furnished,16,19,After 2 months,Family,0,1,0,3,13000
+PN100853,Sinhagad Road,3,1556,Furnished,14,12,After 1 month,Family,1,0,2,6,30000
+PN100854,Kothrud,3,1268,Unfurnished,20,28,After 2 months,Family,0,1,2,4,35200
+PN100855,Narhe,1,437,Semi-Furnished,14,14,After 2 months,Family,0,1,0,3,9700
+PN100856,Hadapsar,1,462,Semi-Furnished,15,1,After 2 months,Family,0,1,2,1,21100
+PN100857,Kothrud,3,1200,Unfurnished,10,19,After 2 months,Family,0,1,1,3,38500
+PN100858,Kothrud,1,427,Unfurnished,7,6,After 1 month,Family,0,1,0,1,29800
+PN100859,Dhayari,1,525,Semi-Furnished,8,20,After 1 month,Family,1,1,2,2,10200
+PN100860,Wakad,3,1536,Unfurnished,13,25,After 2 months,Family,1,1,0,4,38400
+PN100861,Narhe,2,596,Furnished,2,5,Immediate,Family,0,0,5,4,14400
+PN100862,Wakad,2,598,Unfurnished,20,2,After 2 months,Bachelor,0,1,3,2,32900
+PN100863,Hadapsar,2,991,Unfurnished,12,28,Immediate,Company,0,1,1,3,21100
+PN100864,Kothrud,2,688,Unfurnished,15,30,Immediate,Family,1,1,1,3,29000
+PN100865,Baner,1,517,Furnished,9,28,After 2 months,Family,1,1,2,1,30400
+PN100866,Sinhagad Road,2,760,Unfurnished,9,29,After 2 months,Family,0,1,1,2,15900
+PN100867,Dhayari,3,1424,Furnished,15,23,Immediate,Family,0,1,3,4,14000
+PN100868,Baner,2,857,Unfurnished,14,13,Immediate,Company,1,1,1,3,39500
+PN100869,Wakad,3,1347,Semi-Furnished,16,23,Immediate,Bachelor,0,1,0,5,35500
+PN100870,Baner,3,1170,Furnished,6,29,After 2 months,Family,1,1,2,3,44000
+PN100871,Narhe,1,401,Unfurnished,1,27,After 2 months,Bachelor,0,0,0,1,6300
+PN100872,Baner,3,1272,Unfurnished,11,0,Immediate,Family,0,1,1,6,50000
+PN100873,Hadapsar,4,1953,Unfurnished,5,6,Immediate,Family,1,1,1,5,39700
+PN100874,Dhayari,2,572,Furnished,2,20,After 2 months,Bachelor,1,0,1,3,10100
+PN100875,Narhe,3,1213,Unfurnished,19,5,Immediate,Family,0,1,1,5,14500
+PN100876,Kothrud,3,1303,Unfurnished,18,6,After 2 months,Family,1,1,1,3,45000
+PN100877,Kothrud,3,1377,Semi-Furnished,1,8,Immediate,Family,1,0,0,4,49000
+PN100878,Narhe,2,969,Furnished,16,11,After 1 month,Bachelor,1,0,0,3,13200
+PN100879,Wakad,1,358,Semi-Furnished,7,16,After 1 month,Family,1,1,0,3,25900
+PN100880,Hadapsar,2,692,Unfurnished,12,14,After 2 months,Family,1,1,3,2,20700
+PN100881,Hadapsar,4,1448,Unfurnished,5,25,After 1 month,Family,0,1,0,5,24800
+PN100882,Wakad,3,1354,Semi-Furnished,5,3,Immediate,Bachelor,1,1,2,4,49400
+PN100883,Hadapsar,2,579,Furnished,3,25,Immediate,Family,1,0,1,3,19000
+PN100884,Wakad,3,1008,Unfurnished,12,19,After 1 month,Family,0,1,2,3,32800
+PN100885,Narhe,1,399,Furnished,13,11,Immediate,Family,1,1,1,1,12200
+PN100886,Narhe,3,1496,Semi-Furnished,9,16,After 1 month,Company,0,1,4,7,19300
+PN100887,Baner,4,2154,Semi-Furnished,4,8,After 1 month,Family,0,1,2,5,63100
+PN100888,Baner,2,746,Semi-Furnished,13,11,After 2 months,Company,1,1,0,5,41500
+PN100889,Sinhagad Road,2,916,Unfurnished,13,3,After 1 month,Family,0,1,0,2,21500
+PN100890,Baner,1,484,Unfurnished,1,28,Immediate,Family,0,0,2,2,26800
+PN100891,Wakad,2,940,Unfurnished,7,16,Immediate,Family,1,1,1,3,32500
+PN100892,Wakad,1,361,Unfurnished,15,9,After 1 month,Family,1,1,0,1,27200
+PN100893,Kothrud,2,557,Unfurnished,2,15,After 1 month,Family,1,0,1,2,31500
+PN100894,Sinhagad Road,3,1361,Semi-Furnished,18,0,After 1 month,Family,1,1,3,3,29000
+PN100895,Hadapsar,2,529,Unfurnished,16,17,Immediate,Bachelor,0,1,0,3,17100
+PN100896,Kothrud,1,585,Unfurnished,14,8,After 1 month,Family,1,1,0,3,30700
+PN100897,Wakad,1,545,Unfurnished,16,8,After 1 month,Family,0,1,3,1,30900
+PN100898,Narhe,3,1480,Unfurnished,15,25,Immediate,Bachelor,1,0,0,5,13300
+PN100899,Narhe,3,1353,Unfurnished,6,21,After 2 months,Family,0,1,2,4,15100
+PN100900,Baner,1,598,Unfurnished,4,27,After 1 month,Company,1,1,2,3,29400
+PN100901,Kothrud,1,554,Furnished,9,28,After 1 month,Bachelor,0,1,0,2,25100
+PN100902,Sinhagad Road,1,414,Furnished,14,19,Immediate,Bachelor,0,1,2,1,17100
+PN100903,Wakad,4,1425,Unfurnished,2,26,After 2 months,Family,0,0,1,4,36800
+PN100904,Sinhagad Road,2,666,Furnished,2,27,After 1 month,Bachelor,0,0,1,3,16300
+PN100905,Sinhagad Road,2,511,Unfurnished,4,7,After 2 months,Family,0,1,0,4,18600
+PN100906,Baner,1,321,Semi-Furnished,10,14,After 2 months,Family,1,1,2,2,27800
+PN100907,Baner,2,538,Semi-Furnished,5,0,Immediate,Bachelor,1,0,1,5,38600
+PN100908,Baner,3,1115,Semi-Furnished,10,17,After 2 months,Family,1,1,1,3,39100
+PN100909,Narhe,2,569,Unfurnished,5,13,After 2 months,Family,0,1,0,4,9900
+PN100910,Wakad,3,1177,Unfurnished,17,18,After 2 months,Family,0,1,0,4,33900
+PN100911,Sinhagad Road,3,1400,Semi-Furnished,3,22,Immediate,Family,1,0,0,3,26300
+PN100912,Baner,1,568,Unfurnished,5,1,After 2 months,Family,1,1,1,2,34600
+PN100913,Sinhagad Road,3,1222,Unfurnished,11,17,After 1 month,Family,1,0,1,4,20800
+PN100914,Baner,2,593,Unfurnished,18,3,After 2 months,Bachelor,1,1,2,3,33100
+PN100915,Sinhagad Road,3,923,Semi-Furnished,7,2,After 1 month,Family,1,1,3,4,25400
+PN100916,Narhe,3,1250,Semi-Furnished,18,9,After 1 month,Family,1,1,1,3,16200
+PN100917,Narhe,1,451,Furnished,18,22,After 2 months,Family,1,1,2,4,12400
+PN100918,Dhayari,1,593,Furnished,12,22,After 1 month,Bachelor,1,1,0,1,9600
+PN100919,Narhe,3,1455,Semi-Furnished,19,3,After 2 months,Family,1,0,0,5,17000
+PN100920,Dhayari,2,886,Unfurnished,18,11,After 2 months,Family,1,1,1,4,10600
+PN100921,Sinhagad Road,3,1572,Unfurnished,13,6,After 2 months,Bachelor,0,1,1,4,26800
+PN100922,Hadapsar,3,1242,Semi-Furnished,4,24,Immediate,Bachelor,1,1,0,5,22200
+PN100923,Baner,3,1154,Semi-Furnished,15,28,Immediate,Family,1,1,0,4,43600
+PN100924,Hadapsar,2,915,Semi-Furnished,16,25,After 2 months,Family,1,1,1,3,21800
+PN100925,Dhayari,3,1270,Semi-Furnished,6,2,Immediate,Family,1,1,1,4,16500
+PN100926,Baner,3,1586,Unfurnished,4,21,After 2 months,Family,1,1,3,4,49800
+PN100927,Baner,2,997,Unfurnished,4,19,After 2 months,Bachelor,0,1,1,3,36200
+PN100928,Hadapsar,1,553,Furnished,12,23,After 1 month,Company,1,1,0,2,21500
+PN100929,Baner,1,487,Unfurnished,14,26,Immediate,Company,1,0,2,1,29400
+PN100930,Sinhagad Road,2,707,Furnished,12,8,Immediate,Bachelor,1,1,2,3,23200
+PN100931,Kothrud,2,973,Semi-Furnished,13,17,After 1 month,Bachelor,0,1,2,2,31600
+PN100932,Hadapsar,2,776,Semi-Furnished,15,16,Immediate,Bachelor,1,1,1,2,25400
+PN100933,Hadapsar,2,680,Semi-Furnished,13,6,After 1 month,Family,1,1,0,3,25100
+PN100934,Hadapsar,3,1387,Unfurnished,19,17,After 2 months,Bachelor,1,1,3,5,27300
+PN100935,Baner,2,843,Furnished,20,20,After 2 months,Family,0,0,0,3,35700
+PN100936,Narhe,2,721,Furnished,18,30,Immediate,Company,1,1,0,4,12800
+PN100937,Kothrud,3,920,Unfurnished,15,17,Immediate,Bachelor,1,1,0,3,35500
+PN100938,Baner,3,1187,Furnished,14,8,Immediate,Family,1,1,1,4,51200
+PN100939,Baner,4,1502,Semi-Furnished,10,0,Immediate,Family,0,1,3,6,61400
+PN100940,Dhayari,2,698,Furnished,11,13,Immediate,Family,0,1,1,2,10600
+PN100941,Baner,1,531,Unfurnished,9,3,After 1 month,Company,0,1,0,1,33200
+PN100942,Kothrud,2,608,Furnished,17,30,After 2 months,Family,0,1,1,4,30600
+PN100943,Kothrud,2,819,Furnished,1,7,After 1 month,Bachelor,0,0,0,3,40300
+PN100944,Dhayari,2,552,Furnished,18,27,After 2 months,Bachelor,1,1,0,5,9100
+PN100945,Wakad,3,1314,Semi-Furnished,5,10,After 1 month,Family,0,1,1,4,42600
+PN100946,Hadapsar,2,629,Unfurnished,15,19,Immediate,Family,1,0,0,4,19400
+PN100947,Narhe,1,493,Furnished,16,26,After 1 month,Family,1,0,1,2,10900
+PN100948,Kothrud,3,1017,Semi-Furnished,6,9,After 2 months,Family,0,1,2,4,40700
+PN100949,Wakad,1,385,Furnished,18,20,After 1 month,Bachelor,0,1,0,1,25900
+PN100950,Dhayari,2,805,Unfurnished,11,22,After 2 months,Family,1,1,1,3,10200
+PN100951,Narhe,2,542,Furnished,20,30,After 1 month,Family,0,1,1,3,10100
+PN100952,Baner,2,736,Unfurnished,6,1,After 1 month,Family,1,1,0,3,37000
+PN100953,Hadapsar,3,1161,Unfurnished,3,26,After 2 months,Family,1,0,0,5,22700
+PN100954,Wakad,3,946,Unfurnished,12,14,After 1 month,Family,0,1,1,3,34900
+PN100955,Wakad,1,455,Furnished,1,7,After 1 month,Bachelor,1,1,1,3,32800
+PN100956,Sinhagad Road,2,592,Unfurnished,8,9,Immediate,Company,1,1,0,2,21200
+PN100957,Wakad,3,1517,Unfurnished,1,21,Immediate,Company,1,1,0,4,44900
+PN100958,Kothrud,2,760,Furnished,7,0,After 2 months,Bachelor,0,1,1,2,36600
+PN100959,Baner,1,525,Semi-Furnished,19,6,Immediate,Bachelor,1,1,1,1,33600
+PN100960,Narhe,4,1875,Unfurnished,18,30,After 2 months,Family,1,1,1,6,17000
+PN100961,Wakad,2,822,Unfurnished,11,11,After 1 month,Bachelor,1,1,0,3,32700
+PN100962,Narhe,2,739,Semi-Furnished,2,27,After 2 months,Family,1,0,4,4,11500
+PN100963,Hadapsar,2,733,Semi-Furnished,11,24,Immediate,Bachelor,0,0,1,3,18400
+PN100964,Narhe,4,2497,Unfurnished,7,30,Immediate,Family,0,1,1,8,16700
+PN100965,Baner,2,965,Unfurnished,19,10,After 2 months,Company,1,1,1,3,42900
+PN100966,Wakad,4,1778,Unfurnished,11,29,After 2 months,Bachelor,0,1,2,8,38600
+PN100967,Hadapsar,3,1379,Unfurnished,19,26,Immediate,Family,0,0,0,4,23900
+PN100968,Sinhagad Road,2,787,Unfurnished,2,4,After 1 month,Family,1,1,0,3,22700
+PN100969,Narhe,2,741,Semi-Furnished,13,6,After 1 month,Family,1,1,3,4,14600
+PN100970,Hadapsar,2,777,Furnished,13,10,After 1 month,Bachelor,0,1,1,3,23900
+PN100971,Dhayari,3,1247,Semi-Furnished,11,7,After 2 months,Family,0,1,0,6,14600
+PN100972,Narhe,2,873,Unfurnished,19,15,Immediate,Bachelor,1,1,0,2,12700
+PN100973,Wakad,2,685,Furnished,5,20,Immediate,Family,1,1,0,4,32300
+PN100974,Hadapsar,2,775,Semi-Furnished,19,24,After 2 months,Bachelor,0,1,1,3,19200
+PN100975,Hadapsar,2,676,Unfurnished,17,16,After 2 months,Bachelor,0,1,2,3,19500
+PN100976,Hadapsar,3,1259,Unfurnished,14,0,After 1 month,Family,0,1,0,4,28800
+PN100977,Kothrud,1,534,Furnished,16,22,After 2 months,Bachelor,1,1,1,1,27300
+PN100978,Kothrud,2,830,Unfurnished,20,23,After 1 month,Family,0,1,2,3,32300
+PN100979,Sinhagad Road,3,1139,Semi-Furnished,1,25,After 2 months,Family,0,0,1,5,19500
+PN100980,Kothrud,2,651,Unfurnished,11,11,After 2 months,Family,1,1,0,3,30100
+PN100981,Dhayari,2,722,Furnished,1,7,After 2 months,Family,1,0,2,2,13000
+PN100982,Hadapsar,3,1169,Semi-Furnished,1,26,Immediate,Family,0,0,2,4,24500
+PN100983,Kothrud,1,346,Unfurnished,8,6,Immediate,Family,0,1,3,2,32400
+PN100984,Dhayari,1,351,Unfurnished,13,26,After 2 months,Bachelor,0,1,1,2,6600
+PN100985,Kothrud,2,861,Semi-Furnished,12,28,After 2 months,Family,1,1,2,3,33800
+PN100986,Baner,3,1430,Unfurnished,7,23,After 2 months,Family,1,1,0,3,42600
+PN100987,Wakad,2,589,Unfurnished,20,30,After 2 months,Family,1,1,0,3,25100
+PN100988,Kothrud,1,372,Unfurnished,5,6,After 2 months,Company,1,1,1,3,32400
+PN100989,Baner,2,662,Unfurnished,3,1,Immediate,Family,1,0,0,3,38000
+PN100990,Wakad,2,709,Semi-Furnished,16,15,After 2 months,Company,1,1,1,5,38500
+PN100991,Wakad,3,1032,Semi-Furnished,2,22,Immediate,Family,0,0,0,3,34900
+PN100992,Kothrud,1,345,Semi-Furnished,13,21,After 2 months,Family,1,1,0,2,27300
+PN100993,Baner,3,1230,Semi-Furnished,17,21,After 1 month,Family,0,1,1,6,46300
+PN100994,Hadapsar,2,817,Semi-Furnished,14,22,After 1 month,Bachelor,1,1,1,3,20800
+PN100995,Baner,2,543,Semi-Furnished,3,11,After 1 month,Company,1,0,3,3,38500
+PN100996,Hadapsar,2,817,Unfurnished,8,26,Immediate,Family,1,1,2,3,23400
+PN100997,Kothrud,1,444,Semi-Furnished,10,7,After 2 months,Bachelor,1,1,2,2,31700
+PN100998,Hadapsar,1,382,Unfurnished,18,14,After 1 month,Family,1,1,0,3,19600
+PN100999,Wakad,4,1795,Unfurnished,19,12,After 2 months,Family,0,0,0,5,45600
